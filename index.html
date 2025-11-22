@@ -177,7 +177,9 @@
       
       <!-- 布局设置：is-variable is-1 (紧凑间距) -->
       <div class="columns is-multiline is-centered is-variable is-1 is-mobile">
-        
+        <div class="column is-full has-text-centered" style="margin-bottom: 1rem;">
+          We evaluate our method on 12 <a href="https://mimicgen.github.io/" target="_blank"  style="color: #209CEE;">MimicGen</a> tasks.
+        </div>
         <!-- Item 1: Stack -->
         <!-- 修改点2：改为 is-3-desktop (一行4个)，否则在正文宽度下一行6个太小了 -->
         <div class="column is-3-desktop is-6-tablet is-12-mobile has-text-centered" style="padding: 5px;">
@@ -313,7 +315,9 @@
            alt="Teaser description"
            style="width: 100%; height: auto; margin-top: 2rem;">
       <h2 class="content has-text-centered" >
-        <strong>Figure 1: Overview of EfficientFlow.</strong> (a) Our framework effectively combines equivariance with Flow Matching and introduces acceleration regularization to ensure high-quality, fast action generation. (b) As illustrated, EfficientFlow outperforms baseline methods in both success rate and inference speed (evaluated on MimicGen with 100 demonstrations).
+       <strong> Comparison against SOTA</strong>.
+       We report the success rates of 12 MimicGen tasks using 100, 200, and 1000 demos, respectively.
+       Results averaged over three seeds. The results of the baseline methods are directly cited from EquiDiff.
       </h2>
     </div>
   </div>
