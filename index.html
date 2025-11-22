@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description"
+        content="EfficientFlow is an equivariant flow-based policy for robotic manipulation that improves data efficiency and inference speed.">
+  <meta name="keywords" content="EfficientFlow, Embodied AI, Equivariant, Flow Matching, Robotics">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>EfficientFlow: Efficient Equivariant Flow Policy Learning for Embodied AI</title>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-PYVRSFMDRL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'G-PYVRSFMDRL');
+  </script>
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+        rel="stylesheet">
+
+  <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./static/css/index.css">
+  <!-- <link rel="icon" href="./static/images/favicon.svg"> -->
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+  <script src="./static/js/bulma-carousel.min.js"></script>
+  <script src="./static/js/bulma-slider.min.js"></script>
+  <script src="./static/js/index.js"></script>
+</head>
+<body>
+
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-1 publication-title">EfficientFlow: Efficient Equivariant Flow Policy Learning for Embodied AI</h1>
+          <h2 class="subtitle is-3 publication-venue" style="width: 100%; text-align: center;">AAAI 2026</h2>
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">
+              <a href="https://chang-jl.github.io/">Jianlei Chang</a><sup>1*</sup>,</span>
+            <span class="author-block">
+              <a href="https://utkarshsinha.com">Ruofeng Mei</a><sup>1*</sup>,</span>
+            <span class="author-block">
+              <a href="https://gr.xjtu.edu.cn/en/web/wei.ke/home/">Wei Ke</a><sup>1</sup>,
+            </span>
+            <span class="author-block">
+              <a href="https://xuxy09.github.io/">Xiangyu Xu</a><sup>1&dagger;</sup>,
+            </span>
+          </div>
+
+          <div class="is-size-5 publication-authors">
+            <span class="author-block"><sup>1</sup>Xi'an Jiaotong University,</span>
+          </div>
+          <div class="is-size-6 publication-authors">
+            <span class="author-block"><sup>*</sup>Equal Contribution</span>
+            &nbsp;&nbsp; 
+            <span class="author-block"><sup>&dagger;</sup>Corresponding Author</span>
+          </div>
+
+          <div class="column has-text-centered">
+            <div class="publication-links">
+              <!-- PDF Link. -->
+              <span class="link-block">
+                <a href="./static/pdfs/EfficientFlow.pdf"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                  </span>
+                  <span>Paper</span>
+                </a>
+              </span>
+              
+              <!-- <span class="link-block">
+                <a href="https://arxiv.org/abs/2011.12948"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="ai ai-arxiv"></i>
+                  </span>
+                  <span>arXiv</span>
+                </a>
+              </span> -->
+
+              <!-- Code Link. -->
+              <span class="link-block">
+                <a href="https://github.com/chang-jl/EfficientFlow"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fab fa-github"></i>
+                  </span>
+                  <span>Code</span>
+                  </a>
+              </span>
+
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <!-- Abstract. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified">
+          <p>          
+          Generative modeling has recently shown remarkable promise for visuomotor policy learning, 
+          enabling flexible and expressive control across diverse embodied AI tasks. 
+          However, existing generative policies often struggle with <strong>data inefficiency</strong>, 
+          requiring large-scale demonstrations, and <strong>sampling inefficiency</strong>, 
+          incurring slow action generation during inference.
+          </p>
+          <p> 
+          We introduce EfficientFlow, a unified framework for efficient embodied AI with flow-based policy learning. 
+          To enhance data efficiency, we bring equivariance into flow matching. 
+          We theoretically prove that when using an isotropic Gaussian prior and an equivariant velocity prediction network, 
+          the resulting action distribution remains equivariant, 
+          leading to improved generalization and substantially reduced data demands.
+          </p>
+          <p> 
+          To accelerate sampling, we propose a novel acceleration regularization strategy. 
+          As direct computation of acceleration is intractable for marginal flow trajectories, 
+          we derive a novel surrogate loss that enables stable and scalable training using only conditional trajectories.
+          </p>
+          <p> 
+          Across a wide range of robotic manipulation benchmarks, 
+          the proposed algorithm achieves competitive or superior performance under limited data 
+          while offering dramatically faster inference. 
+          These results highlight EfficientFlow as a powerful and efficient paradigm for high-performance embodied AI.
+          </p>
+        </div>
+      </div>
+    </div>
+    <!--/ Abstract. -->
+  </div>
+</section>
+
+<section class="hero teaser">
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <img id="teaser" 
+           src="./static/images/teaser.png" 
+           alt="Teaser description"
+           style="width: 100%; height: auto;">
+      <h2 class="content has-text-centered">
+        We propose EfficientFlow (a) to effectively combine equivariance with Flow Policy and introduce an acceleration regularization to achieve high-quality, fast action generation. As shown in (b), EfficientFlow compares favorably against baseline policy learning approaches in both success rate and inference speed. Results are from MimicGen with 100 training demonstrations.
+      </h2>
+
+    </div>
+  </div>
+</section>
+<h2 class="title is-3" style="width: 100%; text-align: center;">Experiment</h2>
+<section class="hero is-light is-small">
+  <div class="hero-body">
+    <!-- 修改点1：加上 is-max-desktop，让宽度与正文文本对齐 -->
+    <div class="container is-max-desktop">
+      
+      <!-- 布局设置：is-variable is-1 (紧凑间距) -->
+      <div class="columns is-multiline is-centered is-variable is-1 is-mobile">
+        
+        <!-- Item 1: Stack -->
+        <!-- 修改点2：改为 is-3-desktop (一行4个)，否则在正文宽度下一行6个太小了 -->
+        <div class="column is-3-desktop is-6-tablet is-12-mobile has-text-centered" style="padding: 5px;">
+          <!-- 修改点3：去掉 max-width 限制，让视频填满格子 -->
+          <div class="content" style="width: 100%; margin: 0 auto;">
+            <video poster="" id="stack" autoplay controls muted loop playsinline width="100%">
+              <source src="./static/videos/stack.mp4" type="video/mp4">
+            </video>
+            <h5 class="title is-6" style="margin-top: 2px; margin-bottom: 0;">Stack</h5>
+          </div>
+        </div>
+
+        <!-- Item 2: Square -->
+        <div class="column is-3-desktop is-6-tablet is-12-mobile has-text-centered" style="padding: 5px;">
+          <div class="content" style="width: 100%; margin: 0 auto;">
+            <video poster="" id="square" autoplay controls muted loop playsinline width="100%">
+              <source src="./static/videos/square.mp4" type="video/mp4">
+            </video>
+            <h5 class="title is-6" style="margin-top: 2px; margin-bottom: 0;">Square</h5>
+          </div>
+        </div>
+
+        <!-- Item 3: Threading -->
+        <div class="column is-3-desktop is-6-tablet is-12-mobile has-text-centered" style="padding: 5px;">
+          <div class="content" style="width: 100%; margin: 0 auto;">
+            <video poster="" id="threading" autoplay controls muted loop playsinline width="100%">
+              <source src="./static/videos/threading.mp4" type="video/mp4">
+            </video>
+            <h5 class="title is-6" style="margin-top: 2px; margin-bottom: 0;">Threading</h5>
+          </div>
+        </div>
+
+        <!-- Item 4: Stack Three -->
+        <div class="column is-3-desktop is-6-tablet is-12-mobile has-text-centered" style="padding: 5px;">
+          <div class="content" style="width: 100%; margin: 0 auto;">
+            <video poster="" id="stack_three" autoplay controls muted loop playsinline width="100%">
+              <source src="./static/videos/stack_three.mp4" type="video/mp4">
+            </video>
+            <h5 class="title is-6" style="margin-top: 2px; margin-bottom: 0;">Stack Three</h5>
+          </div>
+        </div>
+
+        <!-- Item 5: Coffee -->
+        <div class="column is-3-desktop is-6-tablet is-12-mobile has-text-centered" style="padding: 5px;">
+          <div class="content" style="width: 100%; margin: 0 auto;">
+            <video poster="" id="coffee" autoplay controls muted loop playsinline width="100%">
+              <source src="./static/videos/coffee.mp4" type="video/mp4">
+            </video>
+            <h5 class="title is-6" style="margin-top: 2px; margin-bottom: 0;">Coffee</h5>
+          </div>
+        </div>
+
+        <!-- Item 6: Three Piece Assembly -->
+        <div class="column is-3-desktop is-6-tablet is-12-mobile has-text-centered" style="padding: 5px;">
+          <div class="content" style="width: 100%; margin: 0 auto;">
+            <video poster="" id="three_piece_assembly" autoplay controls muted loop playsinline width="100%">
+              <source src="./static/videos/three_piece_assembly.mp4" type="video/mp4">
+            </video>
+            <h5 class="title is-6" style="margin-top: 2px; margin-bottom: 0;">3 Pc. Asm.</h5>
+          </div>
+        </div>
+
+        <!-- Item 7: Hammer Cleanup -->
+        <div class="column is-3-desktop is-6-tablet is-12-mobile has-text-centered" style="padding: 5px;">
+          <div class="content" style="width: 100%; margin: 0 auto;">
+            <video poster="" id="hammer_cleanup" autoplay controls muted loop playsinline width="100%">
+              <source src="./static/videos/hammer_cleanup.mp4" type="video/mp4">
+            </video>
+            <h5 class="title is-6" style="margin-top: 2px; margin-bottom: 0;">Hammer Cleanup</h5>
+          </div>
+        </div>
+
+        <!-- Item 8: Mug Cleanup -->
+        <div class="column is-3-desktop is-6-tablet is-12-mobile has-text-centered" style="padding: 5px;">
+          <div class="content" style="width: 100%; margin: 0 auto;">
+            <video poster="" id="mug_cleanup" autoplay controls muted loop playsinline width="100%">
+              <source src="./static/videos/mug_cleanup.mp4" type="video/mp4">
+            </video>
+            <h5 class="title is-6" style="margin-top: 2px; margin-bottom: 0;">Mug Cleanup</h5>
+          </div>
+        </div>
+
+        <!-- Item 9: Kitchen -->
+        <div class="column is-3-desktop is-6-tablet is-12-mobile has-text-centered" style="padding: 5px;">
+          <div class="content" style="width: 100%; margin: 0 auto;">
+            <video poster="" id="kitchen" autoplay controls muted loop playsinline width="100%">
+              <source src="./static/videos/kitchen.mp4" type="video/mp4">
+            </video>
+            <h5 class="title is-6" style="margin-top: 2px; margin-bottom: 0;">Kitchen</h5>
+          </div>
+        </div>
+
+        <!-- Item 10: Pick Place -->
+        <div class="column is-3-desktop is-6-tablet is-12-mobile has-text-centered" style="padding: 5px;">
+          <div class="content" style="width: 100%; margin: 0 auto;">
+            <video poster="" id="pick_place" autoplay controls muted loop playsinline width="100%">
+              <source src="./static/videos/pick_place.mp4" type="video/mp4">
+            </video>
+            <h5 class="title is-6" style="margin-top: 2px; margin-bottom: 0;">Pick Place</h5>
+          </div>
+        </div>
+
+        <!-- Item 11: Nut Assembly -->
+        <div class="column is-3-desktop is-6-tablet is-12-mobile has-text-centered" style="padding: 5px;">
+          <div class="content" style="width: 100%; margin: 0 auto;">
+            <video poster="" id="nut_assembly" autoplay controls muted loop playsinline width="100%">
+              <source src="./static/videos/nut_assembly.mp4" type="video/mp4">
+            </video>
+            <h5 class="title is-6" style="margin-top: 2px; margin-bottom: 0;">Nut Assembly</h5>
+          </div>
+        </div>
+
+        <!-- Item 12: Coffee Preparation -->
+        <div class="column is-3-desktop is-6-tablet is-12-mobile has-text-centered" style="padding: 5px;">
+          <div class="content" style="width: 100%; margin: 0 auto;">
+            <video poster="" id="coffee_preparation" autoplay controls muted loop playsinline width="100%">
+              <source src="./static/videos/coffee_preparation.mp4" type="video/mp4">
+            </video>
+            <h5 class="title is-6" style="margin-top: 2px; margin-bottom: 0;">Coffee Pre.</h5>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="hero teaser">
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <img id="experiment" 
+           src="./static/images/experiment.jpg" 
+           alt="Teaser description"
+           style="width: 100%; height: auto; margin-top: 2rem;">
+      
+      <h2 class="content has-text-centered" >
+        <strong>Figure 1: Overview of EfficientFlow.</strong> (a) Our framework effectively combines equivariance with Flow Matching and introduces acceleration regularization to ensure high-quality, fast action generation. (b) As illustrated, EfficientFlow outperforms baseline methods in both success rate and inference speed (evaluated on MimicGen with 100 demonstrations).
+      </h2>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="section" id="BibTeX">
+  <div class="container is-max-desktop content">
+    <h2 class="title">BibTeX</h2>
+    <pre><code>@article{park2021nerfies,
+  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
+  title     = {Nerfies: Deformable Neural Radiance Fields},
+  journal   = {ICCV},
+  year      = {2021},
+}</code></pre>
+  </div>
+</section>
+
+
+<footer class="footer">
+  <div class="container">
+    <div class="content has-text-centered">
+      <a class="icon-link"
+         href="./static/videos/nerfies_paper.pdf">
+        <i class="fas fa-file-pdf"></i>
+      </a>
+      <a class="icon-link" href="https://github.com/keunhong" class="external-link" disabled>
+        <i class="fab fa-github"></i>
+      </a>
+    </div>
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+          <p>
+            This website is licensed under a <a rel="license"
+                                                href="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+            Commons Attribution-ShareAlike 4.0 International License</a>.
+          </p>
+          <p>
+            This means you are free to borrow the <a
+              href="https://github.com/nerfies/nerfies.github.io">source code</a> of this website,
+            we just ask that you link back to this page in the footer.
+            Please remember to remove the analytics code included in the header of the website which
+            you do not want on your website.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
