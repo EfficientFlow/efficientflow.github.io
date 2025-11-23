@@ -39,6 +39,82 @@
   <script src="./static/js/bulma-carousel.min.js"></script>
   <script src="./static/js/bulma-slider.min.js"></script>
   <script src="./static/js/index.js"></script>
+
+
+  <style>
+    /* 引入谷歌字体，提升现代感 (可选，如果没有网络可删去) */
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+    .teaser-section {
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+        margin-bottom: 30px; /* 调整与下方 Abstract 的间距 */
+    }
+
+    /* 1. 引导语：加大字号，加深颜色 */
+    .teaser-text {
+        font-size: 1.5rem !important; /* 增大字号 (原图看起来太小) */
+        line-height: 1.5;
+        color: #2c3e50;
+        font-weight: 400;
+        margin-bottom: 24px !important;
+        max-width: 900px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    /* 2. 项目名：渐变色高亮，制造视觉焦点 */
+    .brand-highlight {
+        background: linear-gradient(90deg, #2563eb, #7c3aed); /* 蓝紫色渐变 */
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-weight: 800; /* 特粗 */
+    }
+
+    /* 徽章容器 */
+    .badge-row {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 12px; /* 徽章间距 */
+    }
+
+    /* 3. 徽章样式：去边框，改用柔和背景色 */
+    .pill-badge {
+        display: inline-flex;
+        align-items: center;
+        padding: 6px 18px;
+        border-radius: 50px; /* 完全圆角 */
+        font-size: 0.95rem;
+        font-weight: 600;
+        transition: all 0.2s ease-in-out;
+        border: 1px solid transparent; /* 预留边框位 */
+    }
+
+    .pill-badge:hover {
+        transform: scale(1.05); /* 悬停微微放大 */
+    }
+
+    .badge-icon { margin-right: 6px; font-size: 1.1em; }
+
+    /* 颜色定义：柔和背景 + 深色文字 */
+    .badge-red { background-color: #FEF2F2; color: #DC2626; border: 1px solid #FCA5A5; }
+    .badge-blue { background-color: #EFF6FF; color: #2563EB; border: 1px solid #93C5FD; }
+    .badge-green { background-color: #F0FDF4; color: #16A34A; border: 1px solid #86EFAC; }
+    .caption-style {
+        font-family: "Google Sans", sans-serif; /* 或您页面用的字体 */
+        font-size: 0.95rem;       /* 比正文略小 */
+        color: #4a4a4a;           /* 深灰色，不要纯黑 */
+        line-height: 1.5;         /* 增加行高，易读 */
+        margin-top: 10px;         /* 图片和文字的间距 */
+        margin-bottom: 30px;      /* 每一组图文之间的间距 */
+    }
+
+    /* 强调词样式 */
+    .caption-bold {
+        font-weight: 700;
+        color: #000;
+    }
+  </style>
 </head>
 <body>
 
@@ -116,8 +192,60 @@
 
 
 
+
 <section class="section">
+
+   
   <div class="container is-max-desktop">
+    
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        
+        <!-- 核心标语 -->
+        <div class="teaser-text">
+            Breaking the speed-accuracy trade-off: 
+            <span class="brand-highlight">EfficientFlow</span> 
+            combines geometric generalization with flow matching for 
+            <b>millisecond-level</b> inference.
+        </div>
+
+        <!-- 美化后的徽章 -->
+        <div class="badge-row">
+            <div class="pill-badge badge-red">
+                <span class="badge-icon">🚀</span> 56x Faster Inference
+            </div>
+            <div class="pill-badge badge-blue">
+                <span class="badge-icon">⚡</span> Millisecond Latency
+            </div>
+            <div class="pill-badge badge-green">
+                <span class="badge-icon">🎯</span> Equivariant Generalization
+            </div>
+        </div>
+
+      </div>
+    </div>
+
+
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      
+      <img id="teaser" 
+          src="./static/images/Figure1b.png" 
+          alt="EfficientFlow Performance Comparison"
+          style="width: 70%; height: auto;display: block; margin-left: auto; margin-right: auto;">
+
+      <div class="content has-text-justified is-size-6" style="margin-top: -80px;">
+          <p>
+          <b>Efficiency vs. Performance.</b> 
+          EfficientFlow occupies the top-left "sweet spot", 
+          achieving <span style="color: #209cee; font-weight: bold;">millisecond-level inference</span> 
+          while maintaining <span style="color: #209cee; font-weight: bold;">SOTA</span>  success rates. 
+          </p>
+        </div>
+
+    </div>
+  </div>
+
     <!-- Abstract. -->
     <div class="columns is-centered has-text-centered">
       <div class="column is-four-fifths">
@@ -155,15 +283,48 @@
   </div>
 </section>
 
-<section class="hero teaser">
+<section class="section">
+  <div class="container is-max-desktop">
+    <h2 class="title is-3 has-text-centered">How It Works</h2>
+    <div class="content has-text-justified">
+      <p>
+        To achieve both high efficiency and strong generalization, EfficientFlow introduces two key innovations: 
+        <strong>Equivariant Flow Matching</strong> to handle geometric symmetries, and 
+        <strong>Flow Acceleration Upper Bound (FABO)</strong> to straighten the flow trajectory for faster sampling.
+      </p>
+    </div>
+  </div>
+
   <div class="container is-max-desktop">
     <div class="hero-body">
       <img id="teaser" 
            src="./static/images/teaser.png" 
            alt="Teaser description"
+           style="width: 80%; height: auto;display: block; margin-left: auto; margin-right: auto;">
+      <p >
+        <b>The Geometric Intuition.</b> 
+        To handle rotational symmetries, we enforce <b>Equivariance</b> in the flow field (arrows), 
+        ensuring that rotating the observation (<i>o → go</i>) results in a correspondingly rotated action trajectory (blue path). 
+        Simultaneously, <b>Acceleration Regularization</b> straightens the flow, enabling fast, single-step generation.
+      </p>
+
+    </div>
+  </div>
+
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <img id="teaser" 
+           src="./static/images/pipeline.jpg" 
+           alt="Teaser description"
            style="width: 100%; height: auto;">
       <h2 class="content has-text-centered">
-        We propose EfficientFlow (a) to effectively combine equivariance with Flow Policy and introduce an acceleration regularization to achieve high-quality, fast action generation. As shown in (b), EfficientFlow compares favorably against baseline policy learning approaches in both success rate and inference speed. Results are from MimicGen with 100 training demonstrations.
+       <b>EfficientFlow Architecture.</b> 
+        At each decision step, the policy takes the past two observations <i>o</i> and 
+        a noisy action sequence <i>x<sub>0</sub></i> as input. 
+        This information is processed by the equivariant Flow Matching network to generate
+         five candidate action trajectories. The trajectory that exhibits the minimum Euclidean 
+         distance to the previously predicted trajectory is then selected for execution, 
+         ensuring a smooth and coherent action sequence.
       </h2>
 
     </div>
@@ -178,7 +339,7 @@
       <!-- 布局设置：is-variable is-1 (紧凑间距) -->
       <div class="columns is-multiline is-centered is-variable is-1 is-mobile">
         <div class="column is-full has-text-centered" style="margin-bottom: 1rem;">
-          We evaluate our method on 12 <a href="https://mimicgen.github.io/" target="_blank"  style="color: #209CEE;">MimicGen</a> tasks.
+          EfficientFlow generalizes across 12 challenging tasks in <a href="https://mimicgen.github.io/" target="_blank"  style="color: #209CEE;">MimicGen</a> tasks.
         </div>
         <!-- Item 1: Stack -->
         <!-- 修改点2：改为 is-3-desktop (一行4个)，否则在正文宽度下一行6个太小了 -->
@@ -307,18 +468,25 @@
   </div>
 </section>
 
-<section class="hero teaser">
+<section class="section">
   <div class="container is-max-desktop">
+    <h2 class="title is-3 has-text-centered">Quantitative Results</h2>
+    <div class="content has-text-justified" style="margin-top: -30px;>
+      <p>
+        We compare EfficientFlow against state-of-the-art baselines including EquiDiff, DP3, and ACT.
+        As shown below, our method achieves <strong>higher success rates</strong> with significantly 
+        <strong>fewer inference steps (NFE)</strong>, demonstrating superior data and sampling efficiency.
+      </p>
+    </div>    
     <div class="hero-body">
       <img id="experiment" 
            src="./static/images/experiment.jpg" 
            alt="Teaser description"
            style="width: 100%; height: auto; margin-top: 2rem;">
-      <h2 class="content has-text-centered" >
+      <p>
        <strong> Comparison against SOTA</strong>.
        We report the success rates of 12 MimicGen tasks using 100, 200, and 1000 demos, respectively.
-       Results averaged over three seeds. The results of the baseline methods are directly cited from EquiDiff.
-      </h2>
+      </p>
     </div>
   </div>
 </section>

@@ -1,0 +1,1870 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 Figure1b.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="4.06593in" height="4.0242in"
+		viewBox="0 0 292.747 289.742" xml:space="preserve" color-interpolation-filters="sRGB" class="st2">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(0.375,-0.375)">
+			<title>工作表.1</title>
+			<rect v:rectContext="foreign" x="0" y="0.750008" width="291.997" height="288.992" class="st1"/>
+			<switch>
+				<foreignObject x="0" y="0.750008" width="291.997" height="288.992"
+						requiredExtensions="http://schemas.microsoft.com/visio/2003/SVGExtensions/">
+					<v:foreignData v:dataType="ole" v:type="33280" v:orgSize="29859" v:data="data:metafile;base64,eNrsu1OcL8vWJf
+								ova5Vtu1bZtm1zlW3btm2bq2zbtl2r7N77nK+/3+3bu1/uy33oEw8ZEZn5lDHnGDHHiJSXAgFFAYADIAEAACGAANpxah0IAC
+								iDBgCQAZDAWkK2Nk7GNk56yu52xo46tG7WVgQFoMAUeQBgwH/a/9WtU3VD9oAewVtsH5+op2AQTBWyOuNP71G8iOYLoJbHuo
+								Cz5Yhh9utTdhMUgYrEvOEd6WSf48TNiyzndalkfgzGjaZ6bM2c1QgKw1zFXJXD06NTik4jQACDtIklrvEnQYcmDv4Ufiscfb
+								5ZIAe1oB0fh5gGPyl9I9wPbw1NvXD+WJ+h7DjLemAf1kwdO3MZAPK8vFHd0Ad4yr5G6KGLUK2rJLfZr7FHG8OpZKa9LNpiyK
+								KkHozHcFJrDMaIKMc6CtycuB/Dz4yLet1kZvs+ChZe5QTuCLybkRG/bqOPa5drv9U7prsh1grnaVOLQY2PHEUwR2fdEaBh/O
+								TPaGI0SCUXzr8C9NBIyKdF8UIXwpM7kZ0oypnu6II791xPIQ+5d+84edERSwIRBlRBZK39INeHpDPhz11vlQsTYV7CtvKF3O
+								80pXanpl462fi7JmcKRcgPis4j/T7bDo6f92rot1Q+4HiGH7VzlpYPgHAYwZdFz/UYr2xNCubN98CxTq2cWFjALdiQYQQgJv
+								lRT5TKMfQPxtR4e4e920bWXwAxDKx4udNuwDhmB/jfO8OLctxuF3Gc1PADZxvL5TGyuED+8EfPwffD4jprp4+CW8+U8p5t7p
+								dM6L5/Jf73NwhA/n+BhGYVeuKHv0bSf2U8zF+QoOdgbOVIR/v39T9Q8J/2d6tKkJEboP8RciP+ETr6vLQVhyAo5Sog3kGo7O
+								MnsQnfHF1Igr3VQ46DoIwVCCLm2+XzMb6xxR19Pkr4tM9cFYmEwkXc4lodkvpm7wxBReaQImpftTeI6LL0uPSULibpTuHSFU
+								tV2VaWLzW2Qyy6cCdcjzBDq4YFhVyME4LGk+6vOSyjsW34UgO0JKh0VR1S18qWd544k+m7klJyBssXxiF9OZ+OOupoaLpW4z
+								VqRfj4iqWiZMZhXmeY48BJ5K73y6r3XjizB/nT66ds1qgiETPSC+OM2Ahp3qOvZhPz3US2+yAb1EDl6O1YQCR+2fY/Jomn2w
+								quHwgAcPbXFP6vO25WdK62DpaGtraWf3NmlYq13AUrxiev+Tfh+DMC1000hZq5LjMJf5lTnYT4KAltfcZg+sEskdP3O16pDG
+								XrwqK9WrOLFR8P74l7TPa9bWb7vG75KYZtCSevULtoZhZ6lXv6eQ8dI/Fss2xCCQGq7amyb2H219X+it70inZVDoeeOWDWSa
+								krqQFWpnFCSjPxOqq1yT+ZFJ0lnh6FzmQFWjKipkh5Odmc8DCdxSC6WwRyiBLD6/cvDhm37ZWmeC0EAWoifx+1hhbsufMPlL
+								aMMJUdLI5aLT83E9REW5CymiV3t9d5O4Ec6riuvpoWxNvH3VBE5uU2ZBpca5VG7dsYuiNM/kytebE3BkaGr6SAKXs4WSEHaQ
+								G99Iq9nOTb7tHxDSN3fH2MT2YscEtYXShCdz1hx+dNms99rzEqj57mGtH1p5DFCsXkGpWiRPM+kp8l7fBC3SW5ZMI70x6qfR
+								VHclZSbHRPLt2omgKpRbWHwFHc/UIEDVZByiQYxBUkqLDxzMfRoPjXTp9VJ+CXbYe7dtay3+fpeXZ1vXp5qJoJoYe/O0gbFj
+								0UZB5JvKTNWhM6vTuBTvjwMBJwOr751BMOJUuhBFt/tczwRYDLEuFYu1IHg8+kjqEWfcV0ChLmbQ5dZ+kKltR/Lh4SDcrd2I
+								do890agrym27L7oGE2aiRh1OB30I4XkNhn3RCIuhlMS9BN6ESjPii75uWJSa38YqrRR3mqesm7i3HBF3rkYz5YdyVV3zJ5jq
+								rpgGcry29x15fpW1Ha6h0fsM0NvTC480dtAE1t8wcj3Pi9Q+FJ6c8ArjL+3q84WfLWEay0A/WxGrYZbs2+PchgInGOrV9HkA
+								OqYOi51jvKnce8mclvfdpscuuhjUTIoD17LqsiESIlEWQBb6+hX3xG/yYrgis6cM/rwQ563CYhW4EjG3Aesi5D30AGHWtzqE
+								Ieiic9yv/DRf6QOM5PcYMlS98Q099IS/SSRPX8zTxhWltF5jEF8ju2w4EdZu/lTYFGBQ0t4JDazXzqzEGUs26HYAe0O/SXqQ
+								29EKu8E2MWJlwOQV3OCYZNwlpNbCK7M+E9sQap7+tQJhV9qK8SkSf70DkA/kC+ec3Ghe/3puxlxdtZUci98JH3840vTCfIIy
+								oPA3sHHwN9929d7VwMz2TaHLwGpcDCCw2kbDz8qZO53MiHWHuYe3zk9p9tFhCZGYUytF/g/5SsUl1aH85/PZFRAgAw/p2svx
+								wMXM1tTB3/54Dx76y91N6w2WDF8EEVUMMGX+JOZDwH1P+CBYlgNmuHkDf+/Re9k1OWonVtbeurdax95lTO1OcmZFG4rLfHNK
+								5CxQ+qCie+PcQn9Xzzd0eFmKpo52SF3Lc10DYy14bMjfJWX7za0ZcVLLDDVKIPcU/nW6kmaagP9By99zX9oEv48E6BgxQ0RM
+								gOMbbG74wqOaqLWkg8FPJKEysV+W3mqGmzXrGjW27ppYqm4Zk+AfIATB2yNuHffW7s+QQ9TXRM1Mrj6TzbvaNcGZl5rixOq1
+								phVPCi+ChSbGFjbKCMRrzRcv7SIJv4wcZuozU5I3c8YuyJg5uNn6rKiLs22PKHPlLs6aTn6+PjuSf3+3WgX54QR/BRTWXrDt
+								mmVxaN7LWA9KJKWvRphIDAiBcqDbk3fmA2jeMAyjHbT56FkPEWEjXXCZcmRAEz1FnxsEcaHaNOXSCe1K5VhaFST1iElcKkkS
+								QC3RueJ3YtT2Bu80wMfQwg81EfOJJzIs0dkgWFiCzmPvk8guJ4BJF7CeQk4fgc6aqff1Ec0mwJzJKp6s1BSyvGalNx5nPdqM
+								3iFTowoZFuHSjexgdDOwy1r722jKqdSjVZ1O0GshbhxKB6a6mFmIQsSKq0xWOO8RZ431DhGxPpKdTgJETcEUXM09xv4Aan3P
+								zwk3YOcQUp/2zOS8ZgMXTA9RYOtMXR4+DOOHvE+BNL18TcnqGhkDl9Y1kEc1rMRfew3jrZ+Rz1bFT0p4S5Su6imrnXzgVr1E
+								zrXDk98YABlHSRwZfPr5Hf9xfh1sHmnxWv3wPlB7hrqo9AnNjEv7RuHswWnBXT8H6r6E0daGD0gfpk/rqN4o6gq2ITQTtuYY
+								G/LwgAFt4VI4hgN7wV2w0TMFcUKxVIIy3HE/Po7GVqiMgX4qrYr1tpQy8Z62D8vWQ2y1yCbTpL0knLIrk36FCo8KgfZrAMHJ
+								2R/rb7qKFxZl5lSptlQ6GbaQrFjB2gFiqcu4sfEzAW9t02aJ8lFzvA6NW4bBYyZ2TWbXR8ZptriZd5x3WDVxgZakpMUTG0pu
+								Vx/J3KnkXfXKGA0Jft8BoymA/zcwFZXN2A0BamyJMC580LJUZMgf4JwTntBnwaVOm4l+YADviISQESzwrlJrDfAIWYDCtYKO
+								kwyEdnT/wuCXX6O88kw7bjHsVSJDP4iLoaqIokd9idGMLpjjnnbOStGe73BcyfUhrX+faLym6PWTD7VbRNRUA7QUX7tiXdHP
+								fdPJp0aOTmrqF2gMDz6S5zARxOF9CJ4bALIEt00d+IbZc+Wf0SwAlbLjTieYqiYAExay6Oy2kfGIMAtsjzVbcQx+nUECrL2A
+								6TKCh0PluO7YS1TjsJ/dfrJ0+zULSuBqpm4leJtUzyLMpGeqwlF0pNdNGY36QjAz+pF1ZvtVwuHtaWyLhZyT5A2GeeJoLQoY
+								3asYoR0vadC1Ak6afVeAA/KBtYsPG4w2dIJe+UrdwukYLDrQZQEvwEeqwGO4L4H8phlMye7bG53BIMoI0GsYm7wzGrL77oRb
+								2wl9YHnX9FvUz9ZhL9ON68SkK0DbB0DW5+f5o5fG4clDNp1BIl89JPHbDeFGmDiX4ENhHW/41C38FVKD7esW+d5C+/kaF6Mi
+								NWOSEEL1eHzn5Qz+4UBi8hk3NDPTKQhZzqNvq4xju4QbAZAXoIdZZEJJFu6Gru7FW9VA/VtsVkPQa62c2EZQZsE51pgcxiBW
+								yTSc2JbLeRxYVsp8WVv2D2aGvu/L169yRRatRnd8Jzc+bk/6rJmM04psbzp/9o475MyGXJ8a5M6ZJSD2HlbkiYPQnqnEINPM
+								ZpxI1G5xjq6EpENSsPx8Eks9NXAiPxWlITRzTuatVjMRxhqh9AbxYt9tmB/kOHTveMcU5ac/ORM7D28BIz2Ub5jbgoAuvvPg
+								NGoDb3Apumg5HqU4vqc9azQ44om2BMdWXFgXBZyiufVrFSSo8AW/Tn0dSm0R30oRxGerceY7ZQDXsIQZiuKtRIGlb6V52lfT
+								TTFvtCx9IcfDfVGPtCNNMng+oApmm7fcmOJV+oz36k74/po+1jyI6c+/7b/rut+2ImkbEErg8YDrqg35WZt3YCh0+dZ3GcBr
+								/efMacJimLTv06OtdEQ2FiMlQOP72dbEjLMotSrS9djDbP8vCWp4DYrp0OZNmuH2wuwoe6EcgEtkjK+BJ1JgnOjny+HgR83y
+								cDvwH/H6mK+T9U9R+q+g9V/Yeq/kNV/6Gq/x+pitRZhBIICACQAAEAsACQQH9R1b+lwv+nEPI/ZUMgijwA0P/1slnihMUAPY
+								LIc/BXYJr3Ty5vecFDK0nCDdZPAGEs/mBKlMnb7Y6rnbl2apzL3lFX4DVOUeXUU6HlEraoRQBbHCklxQMtSnTtj85L/NprAU
+								QtvVVWN2Z6gj7Wns5VbgNLDTiFrYcikqFE/4zfepYyNcPTikgeD4yUQpc0kVHJ19Vcq9CPVDI3Th/pQK80SlfQIPZq2oHr8F
+								1WX1xcScYHt4RtK3A8uer5Gm3ywNZVcbBRfyYmkYDAvDMMmkkGPMMgKhDd99k1i0bGNNKsJDDUNkZ7zMhu+NhbpfbjdvXvJh
+								XOxRY+Jy8d4Z0bKX7AVzd9rqJhPT578LwDXsn/MYAKzNFfov4KiiVgAADz33sdIzMDBydHM2NjJ0e6f3UMfwdRVEKfzcbfci
+								PIG1zAdUsWmT02sewcM2zcgB/QlUuq8TqaYTh4MbN5aNf7r1JdiMMEbEoF/O/c/T97vzSfwA+Z17Pk9oOY6qClrC+yvr22RJ
+								+zOOisKbWa4u5d7T4MnO+ty7EktlkAOWBBzhy2nTeMhFkWveLoRhCsm8riom9xij+1xQgm9uLNh6wTivrFrV/T4+ZYflRRVe
+								sHnuv3vjEF5SXzYthFX2+KM51jZcU38TnFCy6ACedrXe1AUJiKGnesE40VwA7LDcoy4+6VSlWLUguGJseCSGcZ67LnTIL2ZV
+								6XfgZn6EJ2xSR/GT22U3CdMp70sMm5zjQ6c4ajRb5vmD11ekeh3f9CnpovHXnkTKdjPXuA1/sZavsisM/0Vrx3+hWZnjoE05
+								THDXoe1Eg8382/+RzcYYfCegQy17mv+t5N4DfY+0Hi3BByk2BhjWuZD80i4TWCedaOaRS7Zcd5UsV/MxelgbwM2h+WyM5eif
+								CZFkRGOma0KiuqYZvqcvT7cYW35gv4n5ZQ0BI/Ihj0ryWE++/t6t/Z/7+tYFbiRsw6PULIDfUjLs0OBBdhLxKiKg6ac7FN8/
+								nZNjtyXdjBImtp9ds1LkQfkX2gakRyfbbXfezJ8+ldHnUDyEVSuSOWKzupvJRSmUfygh4f+hwI6XRkO0JyOWGpmN2D/cfrgp
+								nt5XA1ELeA4JVD+1P3GIajA6xmW4x53nD2vPpPbtmriN/DARTruU5DSNPv0jAqC8iEjc/00hpUUI7ErVgWvgHqZUFinzbVWK
+								4l5u7wsjAda6zxzO0Cg4oq4/haFKSaJjOV6+r1VXXXQlnQEnBouaBiz1klOj1jRclNw+nzrnGTshm2E/gNhMh/BNurv2mlsx
+								hhuFCxXmIkeckor3XUx7iq3gXUv4FhRowbq6kc3lxzHo69WDFFI9eYw+d9xgvH/OCJpg98OHFlc+a3F/g48VChuXAqiNDGs2
+								QTL0mPk6LFqv19qFc7KtPcFryC52fyKhw4IyndmUS/44iY6fa6Kl9b9SU+ynRgWXWxGqE6TZNGGBoDoX/RoyC+rPeFvyLB31
+								J9mA8FYSTXRSZdvNBYzml+LyUAS9ZXf7g2fgNbND+5zShyx+2WVbFP90k0MZZcOyG+4f+94v/K3KYUa9tMeoSRHugG5nJPBW
+								Q8HEEwcWz5cqTsimY9gIKYiIUMuM2yz/uatmA9dihRU2fERw9Xrq+rKbKzXNKfqkNjpOYpvcro+MgqG7UG2Y8OB+5fXRw+Gj
+								o83aZNlRQHDJoG8KQKpNZKBjSqFk/aTB4zWvW6rhKDie8rFQU6pp+0HF0vTzwN7khXOVii7jpbzcstBh/H9TuRPTdmUeqJrF
+								ZyGzU2GA2JoykGl+d1MibrxyHW5lIaItWhb8G6nU5SruPf7/5W/u76P2990h/lDLwSnHP0+CLnP9unjUwJT5XJUIg1drwFtT
+								vRgJ4PBP2uH9oPDFdUHr36ewBbyaTX2KfLl3l+f078kIaV8kYV5RnzgZJis6PBoZ0AR6+r5JVzMwtlMqDU/PgKSjjcl6FC/M
+								FY6UIyGLklTyfN0+dXLpQM6VFZL93N3DigWAyz/qseQnZlz8vCfvtl8F1gMKEmqhZF8poz+SRRcorj17QLxUG/iMQEu13efg
+								j3Cnmhh1pWh0+7oxNgQRhpGz6ed+GGkkquoYT14YT1r4LeGVAKp48iFrwzoH9aJ/pDInzS9wrnDjpug4WRhQlBmAFGCMVUVE
+								6tj2eRh8E99pkjt9eUjxl673mj9cE5/THh7Chq5u7u4+Re0PNyCSGPViCpFGDVdNhD8+h5JW7F2ts+f+GBCEB4agYa58HDU8
+								zhrf7rm0gjaPKDlIGqjFc45TdmANWfVhv9kjwaVZQ62gWb8asEBGhfxtLN+wL+O36Yo2Wg++kRRGuRjgHL+MJxJdhqOpC6hB
+								nmjGVMBozqnV3VcVvP3UOe3mP9Zg9t5ZlB1lF4T7uXWrMgEyIvgZoSGO35dIR7LGZENdfBie6rNrK7SYo2G0UfO8RtHWljHQ
+								rDCApqnL2KSJZ1boUh6ewcPAsJKwzXy5pskbyWok17EP8EXYhQpcLjfz3BIPr75MO/oMvJzNja+N/Xf6HWpeZU7GYLag/66T
+								f/KS+exH3XLXuanO3l1mM/l0s8sWsIU0EqElhCY0cgEf9uVgAADJpEgBYsQtcDMgDczA/rKv9bSmdVfIGvIDbJhOTazrCWb7
+								ZpNZtHfPGG5+tl++AAuXwDX3v4RzYyIaVcu67dxDOCRImXaKLIiiczpto6XgI0OdOkm2D7doT4TSBXz8eQdWcpERIy6J/wzQ
+								EdOkWqrUrVI5SM+s4hpYTeRg50BlU7arSl9F70PDaTpdnnzCWMhUEhqBiBq8DXLFmot5PGns/b0Nrvu7GT25stjWcGw1mFgi
+								KbNEb7Ak+ClLy+6Wng6DhqDn3gbKPlx7wOzJ60OKkjwpDiAAidGTZf3cfpK6rtieC0dUKtBOzMHm1a9LTs4BK5evYtp/PYfh
+								ee1VM2QEmLfWHLl/UDJiBH1qAIM7VhOm/uYcMg5qd/g1TotSx12dpLwtc62knewmWos1QPkPHbxYYRjqvoQEgwW96PndX+54
+								+6nXINN5Dx26mfXt6LlsHEMLb8iIVja6ztaxatmRweIOmOLTdBrhkyPSyTe2DQBQbIOu2RHHKLNeqRd8i0w4BZ/hBUmTjN4l
+								8xpQiTXcr24SHKJT9quZP2g6TMngYI/GYr3/eOTWliniFpJSx1e4VtWMx5xWXBZFRWOiA0u5AOhxpNZ3J9vj/O9HJ8387uS3
+								0FIZwQy6WTSVtjE0U0rkf4vp52et5BPy9mer7vIum23DSGez6eGlN9P9/lykPLVdP2h9R2uj6+OtD1vo9DbbvtzG6gvDRD5M
+								ykSTiJ0E8JYw38hlFYfR2oasgZwumbSexA23ErxKga/MSoJ7XbeOtlXtT5U+yBbmhz1bXliOqVF+fuPyla/EKzGnnRZUE2V7
+								yTabg1yGBcTww1hnkGXzaXngHkKYFiEyjz1M7lOMKDBe6TdgW3ASTChJ9RuYj7GFtiSZouPEVKfaS51A+IIt7S2WTps0rUcd
+								D53liBeqq0AbsWE6yhsQq5TCtloYebov1NvZMCPoJpxsMdbuV2l4ocfQzU2B+AylGRP79IS4w3xaluHwLoY0SZiIqljv397l
+								KyfPCFDB3bP+OqDbEpUXgcz7h7s1LjhXxYw+yyODkWSKiM+JJMEQowcB2PAvAdPENOPW9BZF3a3xlIUzr0siHxBAKolaiAhf
+								k0oEPpbpBsZkZQM432xxl5ELXWmsnLmDjfJoJR1yGC6L38TYPyxPA5MR7cLdY6CbzpAqoa5LT9neE36itukImgGJ2nXCK48+
+								ah15AbdrlecGpqSHJQZQ1pXMx5gWu18j2p9Bk5h1/9ZGbGe4mhVQgGIxco4ElOKcCezVKXDyC1LFO7U6/ddKAmfGuZRvR1eX
+								9fd4JiOlhjil/WWmdCmahCiPRK04tA1DjBEKW8wyB21WDVFyvZ2Mit98PKY2g8ykonqqHyialD+tztlHtvay0dqH6wPk7XdD
+								b4Fo+vBb/jV1mHuKXjIKvLtiCvyJg7Kq27fT8XT9X89lKa3URhZgOLvkC97EJhFoEFOZKpXzJi9dnPfud1HF8N12RwIJhajg
+								1ayVjDwJrKSVpL27wEKUHUPr/jh0CzIayLFwio1FNAzRZmD/7M7700pP1V40GoME5qhZ1u0lgtWXPKmik38RI303Al29hzaE
+								qWpI565QPCmtPgslqhiNm+No7N0sPiPOBi0KK5Atp06SyexNkosYhDonkxrBY3y2V6EyIy0ldQvVSr02wMnddyB93pSuymde
+								MR7TEM6XKYJ5przmdco+upxnWS7eGRyqDBAaxvab+xgDvlfHL7cNog7wkrp0USpdRQ1yCBoZcOLCd6y5olZuq+81kKfN3efY
+								1C23xqrlRlKiRQuOSD370scShpoy/BoVQHqtOLA28w724WsVDDFupt1BalBIlXvtNFr9WLOakcbjXcI2EhEawsRFM4uU928e
+								srvJwImAHLlYfnS4a9bpAkPkobouR6Jlm7jHxzJhrHbeuJMX1mTDn5U9diLmXahnDIdKz/dTGsh0Nd6g9p2ztJhk6eUgsKPE
+								OQeiGq2c10WdBBIIHjY1S/+ypZIuqdq7HxeGOP86jKodHkPOSJlCRHpqldY57VaVpHNKyk62taX94GGbfOKepTdeqWWu3Sus
+								PQ2yolmgx19anxQrbMzg6VnqFKVQFaJY2r3tTvbOeGQH5nWmTbnqfUMtRsjUXmgyvuqkSXbQslz1BUAfNH8+u6DZN4O819mV
+								SfuA6sZo9gdfQUstupV/dXq8xcXv9DhiClQdIJ2Q4NYNeSJunY4LsrytzqP1JkjcKJr9roxRpUvuLHYdO0HbqnFTj3AwedWP
+								pQeTJTMExWxKdVT1YCXatHBWtBW5CmxpfJHkto2+JVsRps/SaWcyJaOjVyi87VNh7LcBOi1vN19Sja1lqIMd9gIfMcXJNTDn
+								SH6VLJaut2wSkBLl1679G63gis4Kg9Wxgq583teuZsHs2StXNlYIWiu/DveyP8ciL2s6O8fhgD5ghaR7kCaU/VcoT7j/4r1Z
+								SxlZte5/Is22y5gqD5F0ph4V+jfSBiwNV2KIsDuuxlP0IEGhXhQ6ckO1QuVMANHDGe9OdsYjzxPU83/QK/7Njx2PolHQFt7T
+								uWyh6f63nzVrFve+wYS6G8fvdHJ0jbhk7TU9ZAqSEr2f+sXHjZ2LwC/1W1CP1VtcD+m/odndytjB3/Jv1JtamYDVaEbvRTLs
+								hOy0cjiWbYiT4PayCg+YJeG39d8/CE8NuRvNPqrIJW3TcSnke8h/lSyvmR07iEn5hnZBHosPuRQ4imx5npsUyL+yID6ffiyj
+								LF4gp2B8ShYdpoysqUb3uEjqWj5SxoYCaKcSi4EtG6ND1fFgoXxMTPXIJNIGTC2QXZy++/T5ZeY+y0d0Z5EG9LkiKMYKVU3B
+								91EbUXRcOZ6B4+Bw/SoBc10+69ohBjli4GtqdId4xkWpMUvJta4gbuXyckxYNbf+SxCgQ5lkIhoXJGc3LUzz9/2GVQa0wo7v
+								jpyKWQTo2925luTw6420LR6JlShvHwdYZ1KahpRnCL4JVT4mvSSlI6XR3+IXCKIAJYKNL7/jyUI2Kqzevfqjkq8DngNgRPAL
+								hPiNCmK8eEzAscVwnry67j3ny9XG3l+qbr/FWx4GqZmy25qC/x+y/PkzAySvnJJitRhCJ6gGvC2O2u90w/Hr7WmA4PnkDax+
+								moWCslGXd/Rt/5qmSxLrAUZTC6HPcPJuGCToDhYMkkjervOc3Aj/Cg6PS+2lAbP3v/ci2+ZYA8uINu/tVET1HBJdVMi5n+ic
+								m0cQ2GCmYuHl8w2DCGDWBlbti9xB9sS67w215i+iLRpMWgZFFXaVpP9/35PBy6iDX97KAgry3hn25gYnmoiOyB19SKcobbVL
+								pwdkoAocEO9dOX+6DonkFxYL/eTpQKcIt8HY9lHTcTad+19oIt1VPPAMc8PMQuj4F5wH8AE3Fn1HT+AmY1BWX0HKLGl2I6nu
+								GzmRTDfht1kdrrgdFbopKD53+9ZSS14FKvrS9K3RfutyyVVPL77JCDRmLDOhMpjOdhxQOfXbbG4ZL5iJzAjaoOYPhR2yuYpp
+								7tDXHzfGkWkoIpdmVhLOfZ081zlIdr6S3pojjHlscpPr5g/rbDH0M1r7RNPiMzV+oZa8LzCI4aUPCwCPJqHNzNdftTIb3r8D
+								H5d1VmOoueJiphD37B+omf1Qx51qiAUZsZzMnBRZqnZMSXz/tT7o4v7u42HsWCchPEvHRDI/gqTUb32KplCmur4YbPtG7eCk
+								rRIEQJ/jSd0iKfrxS0xy6/n83K84OChSWRyOc9NZNh4KFXMsiJNu5lEls9bOknJ1zibMwjjL2Dq2dHCzqpbd7ZGo9+APObCq
+								wj2ld2YAHlm3vjm0nL9q98rkc1JbaMuNXsocpmbDHXykfOzNd83+eJ3eHvqPfuT35/PFzh+4w+Nf9zxdXiw+7UYrM6s0TDWj
+								GAZ5g3GtmXNc6LDesdCJvk7WI2WeLq1D6BNvmcBbLpHcDT68jV/wZM4D3YoHfEUYbDQDkLw67iXR66OPQIIuBWNvn2rbbnqO
+								cfwYKSHH6CCAgAcAQBAFD+CyzMDByMfyk5Ofxty/2NGUWJc5ID9CghN2A7hKBB7vXGmbLC8z/ONFejozTwCZpKLfM4zjwUnW
+								1tFymn94IvjL+ybvi+OQgdviwsn378xAxFzI0azgI6rqFvC39RSoGz5SCurZ9tFgp7gQubWXpNJ/lDUyeOWNtpex2U1wlcaX
+								6I1Wun1L5sgR9zJSq/EEBbBnzbgrZw9yKqbh3XuOl8KrSDaYqbYQ1xp9t2LJmgMF9JImH53I83T5IhvpdsVRE3mOm11DCfr4
+								eGmOtw7CoTFkrr0oYfCkM61DESP1MVO4MkZTYQ42c83N87b4zfOkI74x9W3RzaJ0JX+WsjPZhygtcerdLgqe9bXXt2f2fd20
+								vZZfYL0PO2cDdY+iHrzviNeSb8Yfnie0DkhfX4jwdyKpH09zGBAQAF0P+jy/lv2ShJxmaDHiH4GcwDIsBTgy+FVCMMRz0eFR
+								QygmYdpA7FGgpVwr8IF0JAdl7FlUfEVinvbxyGWbkqmBLFi88YSX+G9Xb2PuThpC/mooTGmQaOSstrOBus6cXfXtENiWcVZi
+								5KDUB9CTf36vJ4Pz5fLftQUIP295vl6ERrYzEZ9dZbSLEvMHXQB3ZpVbQ33FW5+hCNF4s77sIHE9i/EGCYP01hUIrmcpsnrp
+								U/KEJ2O6Iixm++fA6pBrMuxloBL5+r753dS/R+O6DiwhI2cOeAL2DXMRQ2YIOap0kXK7V1ifhhLWYpwi6UJU8Kw41LAtdqmg
+								m/oPCwtSeQX0NpFxTvVwXs+/1xNZJaSxHEnTCQ/7wujbheWdM744ybHCmD68kirIuTVK9ms1+sJnZvhVz8KMMsp2vlknaIYs
+								XEf1nDsYZK5osxzEWhPFGdrjDm/XvLJSkb4PdpcMk1oJ0+E0lPOVGm6XZxRPaIdkHwuP8r3kMDbeieufyApM293uel5m2h9q
+								K/tXFXE+9n8O08SkKupxvdGXl0UKcKyGSWUjYJ7X3Www4Prw1qK5ygEbq6TjAcVV0LO64VubNkRkX9q5I6opAo0jfPUBPpOA
+								Azo8NMUFCPoa9wnuRWDt1iUFOi/UQ67U6VcrnjbNaazSxK2QZCYYulcKHH+ZL9i3FAwwnOYn/NNc8atuHjZ/nExRHaVU/f+T
+								8LyUANTmc1UACABvN/p+i/heR/d/+u5bUubDfYkb59ej/hOQkhLvf1tWw1RLODjcg7hoqt44re97rnkKwviMKpJMhd0N97dm
+								6NtaYLXTJaOKqUmvIpEvbt8LJepx6m6CIb6mwYjDnK31o2XKxg1CjH/list/Lp5ja3twyxVzAqx0E/X5GaPNGN+H5vZDalTi
+								McqbFI1oNFKlelPl1hnjjXLhic/UgNa5aIpnZjI2wSxsE7a0pUcIKITBUZccwqI0avfwQ+xYRJoqid9Gqf8GJMP6TEi3fS3Y
+								+o1JHXJoAj7zVxn5q0KMdWuNmOMM5R7B8NalVSdFk0DKFQn4Tloq6I2YtjHKzPZPd3jozovlrFndPIs6jg5J3RHHiuSExwT9
+								6zEjcDu1zF0CvpEuhjqNYvJyxnv9TMVfu9EJ4atj15gWbVCk404h5/X0yywesDYglvCjo90D6Ye8wxVGVbalPHG6C/A2K3L9
+								t6YN4NXG8za+SloS8Sd+EWsD593uEAY1pGMUzRhWjayODG4vSpK73J+4OB+ucpl7JvW/Gy2/nTVUBHyxD67LhNHksOMD7MdT
+								ivmTHbrKA5NAQUsdPAQ6/nUiPWQSbeTpS/kILRbp4yMTNP/lm4tNwvrUaiWptdgiG6jYy4fbYlA01JQBEVpOFsVuJFFrpbEM
+								ykfUmsbHQFTD8ECjGpmBTjSYFKgUVMhOOvHJi1dlGniN8ZOWoEqhbhQ1wJ5j67VhEqJ3/yp4PRBlqw3wjWDVYfC21wOGwKyM
+								ufFbjs27dWz0IEEDgNMMBKf451NrmaqoYdkEACj0QaroQL1l5Uopocex+6DBRdgNvsc3UjiylKt0BdQG4xMDeg2MtH5tMLKT
+								os3i9pru8m3XHF+Qi9/CyYIKQUF+riP6RHvb+fjKtsETULMReyfRWUoOgaRJ7LwNGboj++5ouRje1kq+NYm2DHJaL3MxSeCs
+								1bzgCrOSZo3VXqxwhDbB1Rc0QQGa6Smr3J/XptVD9BUxaWTulZvhDA5x6NFVK6Ken22yrUVdBw9d6AAYGQdos475ap/NHt54
+								HKMREJ3AT3WBSN+EY+HAnHnb6blMtEy2ng/DuN3dneLGHVmIPMTgjyIvmY+WdTW91HI1p+TYGkjAiPaAQ3Mj7KxIQnAB7GO0
+								p0aREOi3jpKXEW5ignt3l8QRnI3bKhAYaScYPGN+2aRozUfyCpxVPG7QNlz4lTNx4XFiIw/hfv5a2YIk9O7AjYkxhs/jBMn2
+								+fpZmGY8bzFV9I945zyEAeakzBguouycDyWPlNs6yR7SFpPf7bwF4u9vPhduuvOnsB4S73ZN+Mg9b12c+909zlUa5HzT4o9U
+								QBBM/qxtNBvscEAiiIsdx13t6c4kMsKr+JjNYNmuX1Z2t1buiuUZjDHDiampJ+xPXgoeuJBvUdjnd1OvcZjIFW664Uq+KB3U
+								aTw2uswckW6EH2TgAMrS+c9grvZ432s27KxXqiG0ONbcZ1YyPh7UvvHg/HZQ9NaLHB1gy1u2ItG0eWGzE5t50bU9DWkAME3c
+								Se/KvijnCoURg5OATczcTerTFHFeofbA1ze0T8qoccVc43Tjg6HzGEw+IuC93tyFAxMZ8bM6ekqgBDjCboCFQcdlCE/Re1H2
+								WgVIf0UEjj21e9GmKaj6q7lx7WciFbF3YaoFNU7S7OTlcQ1r0krD4fJn5dOXtnmApsVuSxNRcXCga7zYmn9c3APFTi+y4vp+
+								giVdQBn/Q25HtGUiIeCPLY7c+9/o+/BQ+N2IFkBrKOkKU5UaU5P4elobtcmpqv3qWhA1s2PpH0BHtwR2JhGa2g8IyzDMLJg/
+								8QxjNc3n6Qv9iu7v229o2sjwDRnMy8pLfSJyXc1Nc9n/ZsvnP9kL7P22u69NKmhyKcGt3iyNmnemfTZc2DALfl5715hEX0jZ
+								WMpjOf1I7q6n/o+4KRBkvztM1GDnfVrs6jchYBCOq3hKCBO4l31qxEA3/Wm/jue5gcsx5Dtq3yBwTEVoMiA4KzIhwJmENlxr
+								kD183T1W5m+914sbyilkTAt210rRFIen8/KqaDhmA/FAyBzWkE1mv86Qn6kryX7s2LQIatkg+whqbK4n8DkR9omH5jrSzxM0
+								BXEocozuL1G96KjGAj2md6JSZHvUciMG4eqanrPfZJuScFX+vtdxkgI41olUHHWbLMZ3ZXkLyZGxLR5IdMBPY1z5kGneYkW/
+								sToJlkB0StVSU74zD+wgFARQ8T1IRNIIg7PMDfzZUQAFAMiwCV1+Ak6BTg33IJ8m0s46L2Mrwzi6EEIihTOlEzzMILwc0gSY
+								CAptuHN0v9+o22Abhbj8OJdEj/g2TLyP07KPWSaRKtQD/6SBTIMuip01YtThslXDRjhz+hnkitwVjLTzCyiaQI2gDaUD2sQX
+								BaD6ESKLmKprvqDtQh3fudk46hcfuA6yKBX3eoxUIZkYz3oi8XsiB8Fmq3FuKnOGCJQ87UtGwykvQSZb6YKHag7jCIGyuKFe
+								1bTaOZHqnCz4Py3UQPLE8D9/ciU/UToxy/PyzRNySRfDOvbnn27UHrEqjS6IehVJztp3JD7s94MoRTqkPYRUYkcxXG1nG+qn
+								uGDY4y06L0TvbwQopbHT5o7ZlnljxTG9i2771kZA8fpGGDSxFGqyQyA6ZPMNwLHcQ4WzeLbdg3flZGYirchvMXxYAgOuXloz
+								y3S2r++Z6Iff8L4sm6Oj/JR1Vz3zimuizF9CD+8JD6293J3GSchqECF8EgEW8tMSl9ijEc7hxHcXKjtnq1dNg29Nr7B9Ei7u
+								ROIRf1d+B9MvPuRDK1kib2SaBYsyM+5d0E3UQTl8p8KqKFF8Ptgem0t5qxiVCnRtQzyNtkvZixPZsPBteDaSroZjL57wHwdR
+								10+8Bw+AdqO7xf7dpJ9h8QStXiDstQx64Ylj3dk0yQTqxej7EqNlRgzESwu35Q9HjhzMs721zzkLAkpsDRUxQjoD/lxLCG9H
+								7Or/Z924Qj/Tg7+OJn+9h1/MZ/2cwM5kup+nid/mqZ3052vQKTZYPW6cn0s6yGbtKNtPWWr9CJgIP7eujL3e4SPbL8OPMWKL
+								kBosH1OsEPovaOvukc3iwOjFrLgzq4OWHFTvM5osmsUC7zOimgWKoAQrvacB5XyT77BR2s3aDoDKGslVxdUxL1nFtZCkldzF
+								Yk6Ypt3K5HY7RFA4R+teP4lE/1wFLT50dj+gjlB8tmlTcQT1nhLA6fnhQ/6gfJjIGEMEUzUAHtnRqgS9HyLbjsXfrRz0SVlC
+								nQHaSEP1i4ElN36FDI/vpIpLaDjbktFHgSt92RkY9VoA1Nei9v8sWqFFyb+U18+uL7j/u7nE7n4uy/SoV1sv/3/u5fss1/eT
+								XWtvvsCF/UKb78IE5nLSpK5SsWxYmn1s2t896s4SDdzpdZ1inzer5GJ8GdLXag0J6fIeR9d9xMPibcB5n8ehCOBZO5JkOUHj
+								G/Af5Pd5tph+v3TvSlDHOmDDBJi4yMpv5RPJgiNHm6ZaMJ4elsWD/Etj3QsmSEsBpHg6BfhElUpKN4Ey1SZhAd04zt9oaCoK
+								LUTw/mSoG6u/yP4k1LepgGyrHt76JFb/sbYyFWHQvC7LcR5ikK/M27qYc0MZgIUb2CtLlYznjUTsn3eFlnhMiPI18UQsovDb
+								kx2ugSLBF8owuUvXIiu+ZpWtnwaLgle46WMeZPNxIF34ZGhLjg3wSS/Xbympb6u3WXmAhCpos0t/yfSqvaZHOSRNJgmh7ult
+								yYhykIwmOJZX98RCHXNaMxRUHmAhH5j9EQccD0+BmzMc+UbXHnck2CDFP58o8FQ1bjXgoqORbBQHQkSbsu2fwOqd7UbVNKyl
+								MPqUuHPHF4DW069/qUSDYkBHPOtuoHnTIu78GfHGDqoe4wt6mGZm+eYsiGzZ5YJths9Q+9Au++XOrV8WykN2tPDydEZizezd
+								zFvxkWD7ZVwyxfhcJmUgzVCkVliZzretwM5si63ovtXnNDZjspGZjCJezql7We2ArObjkhsRsv/6GGYJvEzCpLlA2qlzZvIt
+								jkTgRNdI9ArE9kVE4OTAS8f0TTZ0a7JKVjshMoDydHr0k1sfWWC6aAQvzVAXDh6sHw7e4dbeu7dXByD4+n4ktPyUVA7FWmnC
+								t0srPVz1pXJ3eFARE2Z3SQfBTH/L0EUn0rwVifzrceC+BcJ+MSaSK/HeKGNP0d5Gl5glIgW8c6rraiFTWNz7ouJ9b0ZTUUDM
+								4ax+LsBmIzkj1FMn3FDah0hVHfUENK2FvS//E+YEwiGWTO+DJ+LHu8y2q9V8sUWIbRBSj3u4qnEAd7B7nm+ezwr5F63t6fgB
+								PHblIDagDVgh2H0hBwEvRAlSMt+gOkBARRMX8Z/OaWhYsZ8f0xhBKNEu7puPUh35B4sY7wR9JlWbwZbve3Sh6Nz87YQ9PMLw
+								5kyNQ0kO13vmIcknBv0mytDZokqTtsc8Ic75zy74Pwwp+F64yvPLcGxhOGfSWlCmL+pAPBkmRX9s/ZVW03QvoK1uV47tBtlm
+								I51XY/jaBMncpjzD0vsVd5OK3ApNgtRw8Is6Hvtb7oQKvXRjzumCj27MTd8Md2xIqmw1P0aSpZgH6StIh7rgpOsJarzRhPPh
+								GtLMWI1ED3g+U4ssZ/V54aKFhR7qHv4xaIoUpJClbwAjfGvkNOdoaQZSsgfhF15cUoZ9c6S7cxk69I1Hkl0m1qUOFn8WUpix
+								VVianezCszVMh1UT+7yFWWmHJ+5DX5UFSHlLwmt2/kWsU6nbfDFeO1XvGzryWZWTCdVHnbuq5qehf6rV8tdJ/ndykfXFr7sS
+								n1b0OPQTWZ44XllK7APEjyiSeiZlVWm0PogNUBdxObyT656BQQC7ectovLFuctrWlt3uCG8+D9WVkdAMsA+2xrblgrLnjubF
+								ZkWURqfxNzHN9uoE2s2fqz94a0fvXPihIOSmnZ518jGxAAAPV/LVdtrWwdHBn+LSkJ2PTTI4jUIr0C7JEIqon6Sy4iwMgxZK
+								wMx54INortPLPkzYQIkfq43i96Xn1J6ObUxDM2yXCaxeFEN152LZdD6irZn1ehQXhZoHHdEwhFGLOKlCncDna11n7SNXTurg
+								bA8AR/6u/iB7v0DyMmZPnvKjlswAycio9J2vBrpGAgrmfsITbrh1tYpJhaNQdVyBHzNkk95VmCh/WHZN2FajIUTIk2vYa1YM
+								yNy0ZSbwUqIaCsZVqiK/umy1lMw47T5EwPfGeEhGnNvA8tFC4r5ijYey8oyEX1iOLF5Mph9KTtunfs+DxBn4c/rYwOPMVmOB
+								3u3DRz/uO/lgjjdoSO4ACACT4AgP2/OfVyLsYODua//osFNKZssNn+Jd4jeNrSjLX4RI36G0/YI30TqioesqeU6YhuHgUUVZ
+								2qkpTqQqOIR+pCPywLKTDzgzCfFsMbEQhk8gqHakt0NJWxyxoy/7TSa9q0DdmZ/mFqYlq744bi6CBYbEhkDn5kWew3W0TtQQ
+								OV2dc1/WT66EcBKwHfJm7GhKGEuqn+/ZB4UVdCjLUAkpRcJQZ1LrGIxRwofuFkbS7hfMdaZklUDLV9AYMZOCyFSftIEiXvO5
+								lKVazoTAmeAnpRVjdxFB9fQOKP8cx5+qyRuq7VJbBGsKhu7SAh68cGojyHXAjnXQTSL2DeOfdD8olOXbOnG9QSmbAGfRTtsO
+								VqR9iGaBZb+TKHkTvHWtNC7Zz6KN0HZtcDb6Um8zudF8bPJpUMmVYk+2jJolw3XR8m77JUzLVQVdflDuxzwjFrItqismH/tD
+								VP+nv8g8mGbV2rEm47gPHjHMenUNmcJQW3E8z45a9JcZdCZdNfE5Es0kB3p2bVWjXyU8wiupcY9O0yVanmaihuMQPmyYIJqz
+								n0cF0USwZuFAdsIPBRgcagU3vJ99mhtE3xZvlfkeVJA+wElCSCew7lirRGp9VJVI2+lvbqhfJxrJ1x4RlajF5h55Ip5yZ22M
+								3gYKMT6HSy+Hx83h8bZ4nkpbG+hB00UU4l4/Eb/iQ0411fdxc9Pd8BH48X8LW5PgcjlURfSzN63W+fsWzlI4UpmftHrTO6PL
+								5Pfzpqvz7OysXeQ4IOiDoHDCtGeXHjO4iGIZpK7F4XjNwZwmVBJ+P9IJ09lVudDwHPI73ebWjOMm56hil3QLZw+JzasUQci5
+								ON99kULn6egrcpcbogmwyeqDSbmGT5vo4cNPvXwFkvT9tBg/Z2nmmGHsa8yZmIzmZ4DuLMQcz5GWmehvzlJ2d49MerzrHOxf
+								IFtWMgopq9nWRndUbkcQ75uGiFesO8AacWI6yezxJSdjtKtnPI6OEjwG2hXqEOI1FsBmWET+WX/JOR4DtguK/ieNHGrWGW1N
+								E5cJToRVuFkq+/4Eh4bfvOXAHImStXnl44HeLla72ljuhBFEStg/pMAeyPDiYSyoPbiiA/FAhCBd93Pft5CI+xPgFjgq47po
+								v2z6/hu3hkbUTF3PyT2fkPL3/IUK/dce555fVS1uLqE3XYSO5FxSwxOPO7pChDER8oSJ9t3DGahM9Xucm9ufqrGoS8/Z2xN9
+								VZVqBUkla7TXhFrhmPgi4RYYeAeT0PmMJNf0j8cIg/9n5oR24fQYIvPOGAd3OVB71muryk1+0U5ZAvK0TYvBLRhCe2s0j9rf
+								rlhis14mvrOHyrzdt5+lsY08MAU/rS1joTzs40kFufs3e0hm6rIOzgS3twUYWa9WH8cUsoswMIm7h0J1zDQfe+EV4xYq5n4V
+								1bc+VA7YP3c7qgs8GxZEIj6B3+iVWLXhqOMiXxddB5aV27mbXvu7tZwymlFiujMuS4Iv+uK0BHUijxmX51+7AQj+slHH3a+y
+								3qnpjn2EltbS62fyVjm5V2PT0JV3r62M88iG/qfhccjjZJ3zgM5c2xpLAQUjELPvkKhUkZeSmfqFyenbVhwkVZcua0ZaDUoJ
+								PcY61tYTpVMh0K9dSrqykisNQKV0yFU0jNMlFkwFZyqwE2eY6bVP8XnWBBXbqU4ZpQAasOd2hQepY3BhosfGS7Ap/zUhZl3P
+								ok9cu2zK11F2ZVza8oO6JQHo+ZF0rHx8WO5SD8+YXIqLFIRL/CIXc5th8rwbGuhHJcJFVKDXUOEup6a+ByIi+s3OHT+5ufMk
+								CuCnpsDqmcD1GUJaWEpQqVeiG1MkgcidhuipMo3ITE3Aeo3E5AZ4LrP97Y2YZz7SP6Cic70G8RemqdmidlPzqKUpSpusCoxm
+								lsGmWPc9PMqaBM7ZnoZ/hgIHJWSRLiLXfnPtXHVCb931dH81d06BZ8cl2c526CUY3OLpGUvFJoOl2rXzoCo4swCjpiC7bDcO
+								7zO2EwDCubG+5sYik/vOSntbeMXnisUsb+vHAppZOt7byOJp8Y7ZqDJiYoTh5jbqIlYeJ6sjQK7Fn8mTSbdUfGCy3p73Zd4+
+								lRxZ44eqyPR5chr05rOJspSVU7gqn6Q3VeN17xsJa1kUbG9UPZNt3te10vL8X2WJ4p6uS+TmI9USV1HeISEnqptL3XppFor3
+								mwI8UniQu7uURQGlsK+2W69e7xn0uVICFmS3ZgAGD2/+xsMP3L2VCeismkR+hWO+dS724c5IfM66XyVaZW2eBpgtfHRI7rjb
+								GyTViyyC0q3X5D8c6U9I5aHyZRaE9e74ozCHk1OX43YezhecJdVSLUmnYIsyFDkBd1W2qwhuvxou0CBS6nr7QbwZzaQ06+bX
+								H7tvGpEnaJswRiBiSm+0wZFC7S3ntLYK0buQ+4Jp2ZTYnEJvugavUgveTlv0/DkyWupnIJ2JNiSy55hPGHhu74LR+k9PW7lM
+								B5iXTY9IkPDO1WgN1ARN7WhJ10p/emsQpg55638xswwi4oTbZZqd8K+YO3Mojlhpc2EnCIWAWI8KYqfWijyejWYoMbJAj7ll
+								94dNFGlTCh5BqdzBv1Vfd2lJAW9/KA8ZAFnMzeDTzh0wbAxxA59Pgi5FU7YAj2OqnC+fp83l1suCKccmfNFb5RJDf2Fpo5vm
+								in9Dm0UxLXLqagy6TEt24Kl6udh7P2VWmDGXwYNihkIVa3zEe6qEVTFb7AZ7+rslG5V9tA3njrrvzMP9g+rRaIt3VusealK6
+								0k0JCOR5/aD1YrWRiEkUfwkOiUWJkDDm5k9vD3YXi2fj6ozTZUBzA1LJx8RaAkmqQcOjfENM++BzFtEbIfy+NPJ7qfk2hBx/
+								VJiNYGYyVmMR9rmdbU94MUf3uLFPUJmkdImPwc+ek+AAYrDrebC+cxazo1ZiSXjlWjOTs9TpPpQk6IkL5GYa9GSD44NKgah4
+								yZUjBR7dzvVD3MChodoZ3dOsXkKzpk+4/RNv5SCYEEDQCc/LPxwfi/GR/5/zI+bkIVTPdG72zszbGZz3zabJuEN9rFCyTnJT
+								aHvm7YvF6Txa5YvXGWNayEFA7DBtIJTX2Y3F8ndHQ02NIaEphBNq44W4Izs1CMmbBXb2qHswdbMMRk/Knmd/27Bie/jg5vfD
+								3Tn+85Cj4aRDha/MQH3l57cxy3nzx5Umbso9VTm9r8XZUELQf34qc9wERa+TtrPHIOhHkkBpdBZ00RyhTW0l6dcl9/cf505C
+								Z6LRiGVavMaxPEcfGbmkjBtPiNrXCDN9Q+SWnwa7yDo9wzIs0AOuy3ge3QEpSVoj+7ixJ5nY08Sx1uBzkn9eKk8siIO7lnIS
+								elBjMYLaMgNsLI8AvnDTx1jDlIEeO8nXrzdq1HLW4tYpduE666DYy07HjFodRYi/cfJDNTR+B3g64BfDTSISv9E5u67YDdWV
+								i7fd35+yZtfw22U6buqjrDUWfuPmvbR53fQQwVFVDjtUPbVj90YXV60JFd2YQmx6nfsJptbctY0n+DdOzXWN9xmaGuzGZM8s
+								egPgvjN0VYmuVzh0YHIbYbeOx2nWtE38nE2g73lpQx1ClUIGbkzD4Il5A3VLursK7Uxe+nWstIPGae0/8sBsyjgDKZ9Y2pjF
+								Fz96Met81qlYo2o+4JRcTPF5Jq2M1VKDTyL3EwziRb6RByDmjL0GHLU4vsX7NQNnHbMQxUOL7Kn2SrDtRgv+WtG6S9KCCJxW
+								SeS5x7L8pkk4Rnk/wImIUaoGC/EN87+tQSIoxZIIDEoYvQIYfuGlRDOT72PiQzyGjzz3yLuRmMV07UGfbod/kRSyOGM0mEPB
+								K3iPPo9XuZddX4A6tph94n8JSRGHWNkU6eQ3roo4H+sqIYUVO/3bj1Q9acwju0tICF53eW0eSWbye7515X0NCY7rB5yC4AhV
+								gzx1/DErFNM2AzQC58gD+qjeO3th8Vo0kXyPvXWS4fDCebPpFhw0dzCYT3LQEfnExXxhOwauybitEWnBXdDxz2fsdFOKt1lF
+								uwRdvRtiqqOs7FVNOoOj4GXafdM5STjyz7OahFUob6C8MFksYJD8HdEIRSNd35zvnz/vFYzWCkoeSMiLcoZWNCXorRCU+Aaf
+								K2qJGFBZgW8dKfhVmYowy+yPEFbSBPy5YImHLGDiLftJsCYRb/qSTT54y7F8rhM6sGQ67xkIF4FN6qW08HHg1pMtQnMS3J6J
+								ugj+CqfOOfZhx136NefPYNNKdBhadVyOzmyxw8913TGpfRncxPQnwTX5tt5PDdpIHRMETndBl/BoB75iG28GM+7rJkk9p9yD
+								FIbcglhjXIHRPYA4kPJ7kevxZPQKo0LGr2gIuqjDuoDa299cQGC2cjO/lrzij2Tchw8nmEL91mqA29T3AcPMY8h3G8OkpXEq
+								qtMLyWAzZ1/TPWVIMxQtHtAiZyCxeb5XpKF3me3YtreMJNE9+O53jwTAkOCoPgE+sOXKdDCvOQg7Y1TNmjZLnmKHByh3dXsj
+								369sT+R3vXGRRlskXJOSclSZIwgOQMkiQOOY+BjAQJQxKRqMMgSM5BAckIiAgoSBQXkOQQFUEUkIygBIlDerD73g5+C7vW+/
+								OqXnH4M1Nf9am6za2e797TfbpKBkL6A5zxfF4Lv2CkDT+aYoTIckOyOmgm0fWxX2GpVZNgM2XTAUmi62YdxQDOVqL2oSCiM4
+								epMzfbed5vQxrGzL8oHo40k5Hx+bJhHmGWW5x5FqcEZoWNa4ummLYThp4on8jAoaA4VEt/kJzFn/HTTEvn25/5MvKFZ15W/v
+								A06uluJmFK85voV4wWpXbePioJ8M+rejUN56hxzMQjz+VQz+op0N1qUn3FZWVKvhDiJk7MxEY9p9DoPDuCiTuwTRAbHYslEu
+								mapIM3p4k3t8BDCFqt6e0qXyQEEdW4rICq4QHiUUz0Ns0UMtwSbBQ63FOXuK2bv2zptI2GNnnU7kVZJGI9fwANbwq9+x7uGn
+								S7UHpRNfJVenfkK9E04zQdbg6WXMnqi63Cn6j233RemL37mr6n29efdhyqW7LMHpkaXpacIjsYeLcQzWOxVzLRu3WKoEjfBI
+								sZy9ZhtusOSWGytzrVbLTzRsFTO9vvVlF3wonZuTbPsqegcU1qLmBmsfPqT9O+A8+X3478HjGT87oVYmoz9i0JgXMJI+1qPP
+								d5gboW/ppaZilHAcHz+xqzpc95sYiKzpcFU4OfaSkEG6gFot2AVLU02iKIBBZu4MxlpvXj9rz01VtWUZJJknPXf/EYXd/YUb
+								MZ3+m7naS5VcxVyGDAYK7SstcWrASpJ6H1KLHf188tloasI7fR/Mq0x90KbbWyukwa9muNHTSOP9zUaeVwM8cx9NSKFSiw4v
+								x2LuwIl+ChtbwsYn5vpFiusYoZoDqrOlyThyFhy0QTaqUL4whxycNBskws8caKyMfQJkNqlZKulhHplhIjyriSQfzL+Y39t5
+								bi/OFDitRP7l/jsojsMSNawIkLZ+1V63RUExKb1K90ItS1j02CG7JoKhARGhm3bQlbiVrERbYkX8hQ5POwME8UtR2g93OsZ4
+								sxKSuhEYXf7/ZZMsfqVZrFWnp1qIi8YO+esTZMfk9hTDCnH9tqCQEruhCr0DfvG4kzRsBBmQFdDR9N0O2Nr/J903xY/5ZSly
+								yoTQ5GIJK+kXyDfWfSSLiFSujVIMXCVbn3C3YaufhYNQS3MZVVWEvAM8ZbITdlbcVx12gdOPi1J7gI/D5EY3z44U88m3oV83
+								ug9xQ849E9t7O+sUT0U7HPUvdgUWtFeLPiMs6jxD6X/qOIGMLgo4VPOnuXBs/cyQ2kbsL8oMrQNI5lmF8F3g7KeN0OilTnSr
+								BPoTyXtuWGYLnKe4NTCSLy7OZzLFz2y3daPUjmbIjE17kr0DfGjVLNwxMK+m61kTiay386P7w4GctjcIVh+o7q8xUmOlf10j
+								YvL8dOQ6X85aG6kHrBNf/4ZNIhW84+8jHSAMn81trl7U+Rvg+53j2Q3yWlv3HLtJmYQ7antPF2zJy73ptlJs0XLO2XC1JGrZ
+								7sImt4mXuGlt6PiucVUvWEitzB5Gj0Pt8HCdweU2MTiUnDFxHLYaB8LsPoYBj4Qs2adL+WDSyQG73N+Hkpp3s3cMwDSrMHKV
+								+Zod8e7vAxGXlxRkKdqiYgDnYoiQRQjSLtDbepGBl253Lk6gMjO5I3+0NgmqMYEClk1yi+CZJi9HZktQYubcUXsYjAlGEnC2
+								RihVORftZKeni2YTE2xNOiStLkZn4/LZV7O/j9RV1no8qaB0KSfk8zWLVB9cxGNbVG+dvtQgMICtfevXob6EOw+QQdERd4IA
+								Nj0BVxT4ohNcs4ZDVGnfY+Uah8EAt6Wfp1iFHWokEPYcv6o7aaxUTzzQiCqW/M5r8Vko73OqpCwLeLJbZalZ82iAr53cGueu
+								60yT59J7XbRt8hivxdezRL6f1CePwVEUqjjYpyS4rpxTdLquSslD2RzhqGWmGjGOeS+d95LmMFmgkmGr5rCqPxc+otQq76Mp
+								nLly+7R10JrQZRLV3q3S5WTPzisuff177/34grQqfiyqm4ciqunIor/yfiitCpuPJfiCtCp+LKqbhyKq6ciiun4sqpuPI/E1
+								eoS4tk6g8+8Rz8kp3/q2HMH+5DKNOR372H4NGIQ+sB+CJskWzdpc+HLDbfTGmJew09yWY7yJmifLkACuWDwcac7ZJ3bfM/yh
+								XofQKtjKXf06dhbqOF4n5weCnS+p4Gi9OTRnVRrUmTaNun+nGXiFWHzifSu8r5EgM9BVRe4LI5B8Uk2ZjO5IFWfIOkMgN0BL
+								W0/nz24OPN9jvIcJC28SWZIQol4ZCFnUffhr0EPJemxWI15HgTIjfbEEIU1qrqQQmLjK9C9KfbMr+C/Y2emB8bPp117NR/wm
+								f7i9nKidFjCBIdRq/rXmVKrWRTexj9PCZcbDuo1tnh6+jwcOdB9BfiY6C2HbseDM3prBsjDpAODCzJCefFK8TJyJeDsDF41/
+								gYo4M3eVPDg+4OYeKUFcpb/haxoChRT1Bwur6TFF1sHunkSt6yW3PCdScjeY+WpHdFXGLcAUKZSKuw+PdkOl742QHBh9E/zB
+								c/jD7uSPQaB9H3RxVYXvCw0TUqbOA2Pl7rIFFaHa07+MSOiv5PZe2P2I+eHDrpf18f2lP8DhfS9420Ur1NpQwKzTyD/br/mf
+								SCuLTy2gPO5dzGnAo699S7zI7XpD+aNZVUL0QxS2Q7u7knifA26yYOa7nl4VtLjVuu8lK0lN9jUQnUD0PIC5d7Zji5S52xjX
+								Agql+x/z4Y/9FuSCFYByfBXFOvik7x8zTzg5aCyX2nDzdzsiqEo1Oddsiz3t5h4WC+l5GNA/pAXBrXucr7uFzXfKpD/Njg3a
+								4lFVIeBF6HgYbG9NNb7R+ho865/B74kzgNDUxBquAN2D6LDVRIOCxUpD+Y1ZN9cB0XPtmFyUnqPmG9V19lbKlyo3aOr519xi
+								/El6ZTR/zZLbVB3FJvEEFX40ML31Huhs8ypp/d7l32LQ4ZU1gmj+Gf7wxvISSS6udcQIZGGMpwj0wxLOYp9d/t51LE0onnOF
+								8gbGrAkyNWWoN9mbqlRNOA2KxbZKiDO8N4/UEF4mz71nMv+wcjjdYCUBI/WQsWYbfXwi1a9dgUA4XBT16Sbbf7mRFYzawIGK
+								+RJs1rEZx9wKvp6q6jdP66JCmPVoFBAN4ltXkZEkqaCt+mnJEpybr9wfGo8cfzCMkzy4yB4TED6VGGhXPcTn1MhnIJciFfb5
+								G6D1QjCY+bT45vX0NqfyWZhE9KpnVmVi0f8iyT3j+TqbdKfExZYUlkgWQbof1ZJunywUIy+cdCcnlUy6XHVZJJXJosreemhK
+								8qXUZzT8pakWxvBIhpWQKbJnUc0pSiP8jT4pWLfRkpzyddH02YL/NGAfu5CYOakXKZ0XI8+nQ46KP2JadaiuYtWveVwMrF7f
+								a+18PDiny7obpezSlCZBPyh+sI8au8uK3LuvnG5lNvj4091WduieqfcknoSC4htJsO41arC5qS9qLghuvGn5NXu8jSu47O6x
+								sPaTbrdAxYWX9JlYuV6D6HWO8QHrW3q0a6YvoGqdH4IzT0XHHMcsoairdctr1vdtKyT0XS9VxCqDI33ODjT+oWeJwgpwfFLH
+								syXjjtD/6iDe67KKGMgbkp4yAolbgi6iXEtZstFWOk96lN4v0YQjO+RAsx8fGaRyXjJa89c/rhgRve8rtfGwvYaISu83l3uO
+								WIxgQbLTC/vxbaZCNbqmQ7syJhvIabVCHFavkQrsJJqpSayztjmffdSHNDwuJTrlvKs9ld+vRVvu4vu51J61ScpmdmrjWb7D
+								AqfFrlngRrmVhm+3SvsW35Q3YWFLqkPvgda4JlDxW0MziY0OsHT8nR8NBtoNa67lDXw4rT/fq/b9A59b87ADxuFNwkcLZlEX
+								s0a7JBa18isccrs5wHF0bZUhvjNxymRRdnX2WyJOp3P6tb2I+436uYkbLu7S3tAMkZtjlvdvAi8XMQd2oWF14sbpxRXUw40c
+								W3HHvsKxF5cf3lcTFZomdFunR09PPxikU+zYHvVmKf7Y7NZdG8bu9QwnqWvhJLQWuMoe/+DzDhjc96/M+yF4L50FotvaOwIR
+								2FeS/RkUWc2YxxFecKzW4OYUg06cLQHIijYHj7PhfsLffqergxC7gWrlRr1768JGaXPlhrkj8bedMU92bfG9ctth2R+npoMT
+								LYyasFbQpkB3fIrOzbWp//sT3xedhFDHQu4iF10rvBwuH1OrSAF7Ku54qjhoxnGxsvngnzpF7vsHb3F36YKUMyEcsUtcOVGn
+								zmPEPs5Hj17Z2xAMpy+lBT+H6o3mTrBUESdU8x5u/ot8OiZVX2MI/LxCDRPafigzQLPXhKdjQTLV1dTxPxiBGjwWttekGyer
+								Y1JuMGSiiXotGkaJEiD4lyZELj57UuDuP6yuukxXBzUPI57jVSH1gp+v1uCzHCznzDi4b1iLf09bd/vKFpnf9oS9xsU8cz6J
+								1QQZS2nufWCUvnl/3+yvqy4hT4en0QzJm5zHrLVudtNilZr3xH6G95sBKyJviPXBPdYhHWQXL9LQhPrghfdSl3zpfm+U46hp
+								UgGbnxZyqu7AnbWZw2jBO5rwPZL9S7rOWFt3DEWIBGQiwijdWudgjn5Og0/LbQdCWI2g+PQF8c15+W2MWGb1OA2qOEV/M+xL
+								iDg2wnj1lb4UU+IuG+ehgOJ7H9qqDGdJiTtM3QmcTMRINnKso5DHFPKks0KsuI8XPq9tcmvk8jv2zrvMZfvDHsOigVgchigN
+								JzbTpOUO5XDe8rjhTNJ+UW1s7zE11Re1ScGraJK05yz8VJ+aaZJ3KaB22BxudKQ5VlDetvjPaqzVDrggaSDmc1UyZ/oe+OUq
+								SEgdlkGaUvr1J50GGwMza8cjcnK/BstL9KETeepCu7UYfzUfxWrz+vpCzdFNTDRzvowRi/uZrsn0stOsYFtJMuLAPimOvLgA
+								Q/X290FJRYaGhHLjsCDgRe+YKCBO5fLoABDgb6eqMwRXDyhRS/zhJDfrJXOJDlZ+PWo5A++zvLCTauQB6gfycKfnR/4+YJpA
+								F6SKIgx3CyoySQBWjnhgKS+VhzNyAB0BQGhTUugEUMcCjQIgIF1gvHG0YAGYCGCCh48Z1sjwBkAZ6DR6FF4PhT8UAGoBiIQp
+								7U8eeugAzA/jsKnnInHHUAUgBb0ijkyv/t7n8gEXAzJgq6qidvzQSyADfZodCgfvyWu1+fVQzD4wXXX5/VXsgJGsevzyr6lb
+								9t+wOJgF0YFEosfq0nA2QENjaO/FBb/lKbA0gI7BWgUGT1S50DICGw/kahwPofq3EgGbD4RGHD5pdKUSAhsKJD4cf1f6zvgG
+								Q/VzNHoWSHhvaX2gY4/OdX0KPocjgy/N8vpLoa2DiHzxgP/kYOVu9Sp8Nv/wL3q83I"/>
+				</foreignObject>
+				<!-- Unsupported Record: EmfPlusRecordTypeSetPixelOffsetMode  -->
+				<svg viewBox="-0.70871 -0.70869 1854 1835" height="288.992" preserveAspectRatio="none" width="291.997" x="0"
+						y="0.750008">
+					<clipPath id="mfid1">
+						<rect x="-0.70871" y="-0.70869" width="1854" height="1835" id="mfid2"/>
+					</clipPath>
+					<g clip-path="url(#mfid1)">
+						<mask id="mfid3">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid4" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid3)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<g mask="url(#mfid4)">
+							<g transform="matrix(0.00065617, 0, 0, 0.00065617, 0, 0)">
+								<g fill="#ffffff">
+									<rect width="2.8255e+06" height="2.7965e+06" stroke="none"/>
+								</g>
+							</g>
+						</g>
+						<mask id="mfid5">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid6" fill="white" stroke="none">
+							<g mask="url(#mfid4)">
+								<g mask="url(#mfid5)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<!-- GetDC -->
+						<!-- Released DC -->
+						<defs>
+							<image id="mfid7" width="8" height="8" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAARSURBVChTY/hPAIwIBf//AwCEtf8BmLK6XAAAAABJRU5ErkJggg=="/>
+						</defs>
+						<g mask="url(#mfid6)">
+							<g transform="matrix(0.00065617, 0, 0, 0.00065617, 284, 127)">
+								<pattern id="mfid8" x="-2688" y="-122" width="8" height="8" patternUnits="userSpaceOnUse"
+										patternTransform="matrix(7257.3, 0, 0, 7257.8, 0, 0)">
+									<use xlink:href="#mfid7"/>
+								</pattern>
+								<g fill="url(#mfid8)">
+									<rect width="2.2022e+06" height="1.7297e+06" stroke="none"/>
+								</g>
+							</g>
+						</g>
+						<mask id="mfid9">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid10">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid11" fill="white" stroke="none">
+							<g mask="url(#mfid9)">
+								<g mask="url(#mfid10)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<path id="mfid12" d="M0,961640 L2202200,961640 M0,480060 L2202200,480060 M0,0 L2202200,0"/>
+						</defs>
+						<g mask="url(#mfid11)">
+							<g transform="matrix(0.00065617, 0, 0, 0.00065617, 284, 316)">
+								<pattern id="mfid13" width="8" height="8" patternUnits="userSpaceOnUse"
+										patternTransform="matrix(7257.3, 0, 0, 7257.8, 0, 0)">
+									<use xlink:href="#mfid7"/>
+								</pattern>
+								<g fill="url(#mfid13)" stroke-width="9525" stroke="#d9d9d9" stroke-linejoin="round">
+									<use xlink:href="#mfid12" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<mask id="mfid14">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid15">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid16" fill="white" stroke="none">
+							<g mask="url(#mfid14)">
+								<g mask="url(#mfid15)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<path id="mfid17"
+									d="M94488,0 L94488,1729700 M188980,0 L188980,1729700 M283460,0 L283460,1729700 M377950,0 L377950,1729700 M566930,0 L566930,1729700 M659890,0 L659890,1729700 M754380,0 L754380,1729700 M848870,0 L848870,1729700 M1037800,0 L1037800,1729700 M1132300,0 L1132300,1729700 M1226800,0 L1226800,1729700 M1321300,0 L1321300,1729700 M1510300,0 L1510300,1729700 M1604800,0 L1604800,1729700 M1697700,0 L1697700,1729700 M1792200,0 L1792200,1729700 M1981200,0 L1981200,1729700 M2075700,0 L2075700,1729700 M2170200,0 L2170200,1729700"/>
+						</defs>
+						<g mask="url(#mfid16)">
+							<g transform="matrix(0.00065617, 0, 0, 0.00065617, 284, 127)">
+								<g fill="url(#mfid13)" stroke-width="9525" stroke="#f2f2f2" stroke-linejoin="round">
+									<use xlink:href="#mfid17" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<mask id="mfid18">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid19">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid20" fill="white" stroke="none">
+							<g mask="url(#mfid18)">
+								<g mask="url(#mfid19)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<path id="mfid21"
+									d="M472440,0 L472440,1729700 M943360,0 L943360,1729700 M1415800,0 L1415800,1729700 M1886700,0 L1886700,1729700"/>
+						</defs>
+						<g mask="url(#mfid20)">
+							<g transform="matrix(0.00065617, 0, 0, 0.00065617, 284, 127)">
+								<g fill="url(#mfid13)" stroke-width="9525" stroke="#d9d9d9" stroke-linejoin="round">
+									<use xlink:href="#mfid21" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<mask id="mfid22">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid23">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid24" fill="white" stroke="none">
+							<g mask="url(#mfid22)">
+								<g mask="url(#mfid23)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<mask id="mfid25">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid26">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid27" fill="white" stroke="none">
+							<g mask="url(#mfid25)">
+								<g mask="url(#mfid26)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<path id="mfid28" d="M0,0 L1,1729700"/>
+						</defs>
+						<g mask="url(#mfid27)">
+							<g transform="matrix(0.00065617, 0, 0, -0.00065617, 284, 1262)">
+								<pattern id="mfid29" width="8" height="8" patternUnits="userSpaceOnUse"
+										patternTransform="matrix(7257.3, 0, 0, -7257.8, 0, 0)">
+									<use xlink:href="#mfid7"/>
+								</pattern>
+								<g fill="url(#mfid29)" stroke-width="9525" stroke="#000000" stroke-linejoin="round">
+									<use xlink:href="#mfid28" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<mask id="mfid30">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid31">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid32" fill="white" stroke="none">
+							<g mask="url(#mfid30)">
+								<g mask="url(#mfid31)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<path id="mfid33"
+									d="M0,1441700 L33528,1441700 M0,961640 L33528,961640 M0,480060 L33528,480060 M0,0 L33528,0"/>
+						</defs>
+						<g mask="url(#mfid32)">
+							<g transform="matrix(0.00065617, 0, 0, 0.00065617, 262, 316)">
+								<pattern id="mfid34" width="8" height="8" patternUnits="userSpaceOnUse"
+										patternTransform="matrix(7257.3, 0, 0, 7257.8, 0, 0)">
+									<use xlink:href="#mfid7"/>
+								</pattern>
+								<g fill="url(#mfid34)" stroke-width="9525" stroke="#000000" stroke-linejoin="round">
+									<use xlink:href="#mfid33" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<mask id="mfid35">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid36">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid37" fill="white" stroke="none">
+							<g mask="url(#mfid35)">
+								<g mask="url(#mfid36)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<mask id="mfid38">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid39">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid40" fill="white" stroke="none">
+							<g mask="url(#mfid38)">
+								<g mask="url(#mfid39)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<mask id="mfid41">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid42">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid43" fill="white" stroke="none">
+							<g mask="url(#mfid41)">
+								<g mask="url(#mfid42)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<mask id="mfid44">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid45">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid46" fill="white" stroke="none">
+							<g mask="url(#mfid44)">
+								<g mask="url(#mfid45)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<mask id="mfid47">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid48">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid49" fill="white" stroke="none">
+							<g mask="url(#mfid47)">
+								<g mask="url(#mfid48)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<path id="mfid50" d="M0,0 L2202200,1"/>
+						</defs>
+						<g mask="url(#mfid49)">
+							<g transform="matrix(0.00065617, 0, 0, 0.00065617, 284, 1262)">
+								<g fill="url(#mfid34)" stroke-width="9525" stroke="#000000" stroke-linejoin="round">
+									<use xlink:href="#mfid50" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<mask id="mfid51">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid52">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid53" fill="white" stroke="none">
+							<g mask="url(#mfid51)">
+								<g mask="url(#mfid52)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<path id="mfid54"
+									d="M0,0 L0,33528 M472440,0 L472440,33528 M943360,0 L943360,33528 M1415800,0 L1415800,33528 M1886700,0 L1886700,33528"/>
+						</defs>
+						<g mask="url(#mfid53)">
+							<g transform="matrix(0.00065617, 0, 0, 0.00065617, 284, 1262)">
+								<g fill="url(#mfid34)" stroke-width="9525" stroke="#000000" stroke-linejoin="round">
+									<use xlink:href="#mfid54" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<mask id="mfid55">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid56">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid57" fill="white" stroke="none">
+							<g mask="url(#mfid55)">
+								<g mask="url(#mfid56)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<mask id="mfid58">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid59">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid60" fill="white" stroke="none">
+							<g mask="url(#mfid58)">
+								<g mask="url(#mfid59)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<mask id="mfid61">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid62">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid63" fill="white" stroke="none">
+							<g mask="url(#mfid61)">
+								<g mask="url(#mfid62)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<mask id="mfid64">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid65">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid66" fill="white" stroke="none">
+							<g mask="url(#mfid64)">
+								<g mask="url(#mfid65)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<mask id="mfid67">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid68">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid69" fill="white" stroke="none">
+							<g mask="url(#mfid67)">
+								<g mask="url(#mfid68)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<mask id="mfid70">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid71">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid72" fill="white" stroke="none">
+							<g mask="url(#mfid70)">
+								<g mask="url(#mfid71)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<path id="mfid73" d="M44196,0 L88392,44196 L44196,88392 L0,44196 Z"/>
+						</defs>
+						<g mask="url(#mfid72)">
+							<g transform="matrix(0.00065617, 0, 0, 0.00065617, 280, 204)">
+								<g fill="#6caad1" stroke-width="9525" stroke="#000000" stroke-linejoin="round">
+									<use xlink:href="#mfid73" fill-rule="nonzero" stroke="none"/>
+								</g>
+								<g fill="#6caad1" stroke-width="9525" stroke="#156082" stroke-linejoin="round">
+									<use xlink:href="#mfid73" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<mask id="mfid74">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid75">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid76" fill="white" stroke="none">
+							<g mask="url(#mfid74)">
+								<g mask="url(#mfid75)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<path id="mfid77" d="M44196,0 L88392,44196 L44196,88392 L0,44196 Z"/>
+						</defs>
+						<g mask="url(#mfid76)">
+							<g transform="matrix(0.00065617, 0, 0, 0.00065617, 326, 155)">
+								<g fill="#d52624" stroke-width="9525" stroke="#156082" stroke-linejoin="round">
+									<use xlink:href="#mfid77" fill-rule="nonzero" stroke="none"/>
+									<use xlink:href="#mfid77" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<mask id="mfid78">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid79">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid80" fill="white" stroke="none">
+							<g mask="url(#mfid78)">
+								<g mask="url(#mfid79)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<path id="mfid81"
+									d="M76200,38100 C76200,59142 59142,76200 38100,76200 C17058,76200 0,59142 0,38100 C-0.00000000007276,17058 17058,0 38100,0 C59142,-0.00000000007276 76200,17058 76200,38100 Z"/>
+						</defs>
+						<g mask="url(#mfid80)">
+							<g transform="matrix(0.00065617, 0, 0, 0.00065617, 1674, 172)">
+								<g fill="#000000" stroke-width="9525" stroke="#156082" stroke-linejoin="round">
+									<use xlink:href="#mfid81" fill-rule="nonzero" stroke="none"/>
+									<use xlink:href="#mfid81" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<mask id="mfid82">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid83">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid84" fill="white" stroke="none">
+							<g mask="url(#mfid82)">
+								<g mask="url(#mfid83)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<path id="mfid85"
+									d="M76200,38100 C76200,59142 59142,76200 38100,76200 C17058,76200 0,59142 0,38100 C-0.00000000007276,17058 17058,0 38100,0 C59142,-0.00000000007276 76200,17058 76200,38100 Z"/>
+						</defs>
+						<g mask="url(#mfid84)">
+							<g transform="matrix(0.00065617, 0, 0, 0.00065617, 1379, 543)">
+								<g fill="#ffc000" stroke-width="9525" stroke="#156082" stroke-linejoin="round">
+									<use xlink:href="#mfid85" fill-rule="nonzero" stroke="none"/>
+									<use xlink:href="#mfid85" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<mask id="mfid86">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid87">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid88" fill="white" stroke="none">
+							<g mask="url(#mfid86)">
+								<g mask="url(#mfid87)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<path id="mfid89"
+									d="M76200,38100 C76200,59142 59142,76200 38100,76200 C17058,76200 0,59142 0,38100 C-0.00000000007276,17058 17058,0 38100,0 C59142,-0.00000000007276 76200,17058 76200,38100 Z"/>
+						</defs>
+						<g mask="url(#mfid88)">
+							<g transform="matrix(0.00065617, 0, 0, 0.00065617, 1285, 953)">
+								<g fill="#92d050" stroke-width="9525" stroke="#156082" stroke-linejoin="round">
+									<use xlink:href="#mfid89" fill-rule="nonzero" stroke="none"/>
+									<use xlink:href="#mfid89" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<mask id="mfid90">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid91">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid92" fill="white" stroke="none">
+							<g mask="url(#mfid90)">
+								<g mask="url(#mfid91)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<path id="mfid93"
+									d="M76200,38100 C76200,59142 59142,76200 38100,76200 C17058,76200 0,59142 0,38100 C-0.00000000007276,17058 17058,0 38100,0 C59142,-0.00000000007276 76200,17058 76200,38100 Z"/>
+						</defs>
+						<g mask="url(#mfid92)">
+							<g transform="matrix(0.00065617, 0, 0, 0.00065617, 378, 1113)">
+								<g fill="#7030a0" stroke-width="9525" stroke="#156082" stroke-linejoin="round">
+									<use xlink:href="#mfid93" fill-rule="nonzero" stroke="none"/>
+									<use xlink:href="#mfid93" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<mask id="mfid94">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid95">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid96" fill="white" stroke="none">
+							<g mask="url(#mfid94)">
+								<g mask="url(#mfid95)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<path id="mfid97"
+									d="M76200,38100 C76200,59142 59142,76200 38100,76200 C17058,76200 0,59142 0,38100 C-0.00000000007276,17058 17058,0 38100,0 C59142,-0.00000000007276 76200,17058 76200,38100 Z"/>
+						</defs>
+						<g mask="url(#mfid96)">
+							<g transform="matrix(0.00065617, 0, 0, 0.00065617, 284, 1194)">
+								<g fill="#ff0000" stroke-width="9525" stroke="#156082" stroke-linejoin="round">
+									<use xlink:href="#mfid97" fill-rule="nonzero" stroke="none"/>
+									<use xlink:href="#mfid97" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<mask id="mfid98">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid99">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid100" fill="white" stroke="none">
+							<g mask="url(#mfid98)">
+								<g mask="url(#mfid99)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<mask id="mfid101">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid102">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid103" fill="white" stroke="none">
+							<g mask="url(#mfid101)">
+								<g mask="url(#mfid102)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<!-- GetDC -->
+						<mask id="mfid104" fill-rule="evenodd" fill="white" stroke="none">
+							<rect x="0" y="0" width="1853" height="1834"/>
+						</mask>
+						<g mask="url(#mfid104)">
+							<g transform="matrix(1, 0, 0, 1, 145.25, 1285.3)">
+								<g stroke="#000000" stroke-miterlimit="10" fill="none">
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="400"
+											font-size="75">
+										<text stroke="none" fill="#000000" x="0,38,75" y="0" transform="translate(0,0)"
+												xml:space="preserve">20</text>
+									</g>
+								</g>
+							</g>
+						</g>
+						<!-- Released DC -->
+						<mask id="mfid105">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid106">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid107" fill="white" stroke="none">
+							<g mask="url(#mfid105)">
+								<g mask="url(#mfid106)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<mask id="mfid108">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid109">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid110" fill="white" stroke="none">
+							<g mask="url(#mfid108)">
+								<g mask="url(#mfid109)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<!-- GetDC -->
+						<g mask="url(#mfid104)">
+							<g transform="matrix(1, 0, 0, 1, 145.25, 970.06)">
+								<g stroke="#000000" stroke-miterlimit="10" fill="none">
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="400"
+											font-size="75">
+										<text stroke="none" fill="#000000" x="0,38,75" y="0" transform="translate(0,0)"
+												xml:space="preserve">30</text>
+									</g>
+								</g>
+							</g>
+						</g>
+						<!-- Released DC -->
+						<mask id="mfid111">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid112">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid113" fill="white" stroke="none">
+							<g mask="url(#mfid111)">
+								<g mask="url(#mfid112)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<mask id="mfid114">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid115">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid116" fill="white" stroke="none">
+							<g mask="url(#mfid114)">
+								<g mask="url(#mfid115)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<!-- GetDC -->
+						<g mask="url(#mfid104)">
+							<g transform="matrix(1, 0, 0, 1, 145.25, 654.83)">
+								<g stroke="#000000" stroke-miterlimit="10" fill="none">
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="400"
+											font-size="75">
+										<text stroke="none" fill="#000000" x="0,38,75" y="0" transform="translate(0,0)"
+												xml:space="preserve">40</text>
+									</g>
+								</g>
+							</g>
+						</g>
+						<!-- Released DC -->
+						<mask id="mfid117">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid118">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid119" fill="white" stroke="none">
+							<g mask="url(#mfid117)">
+								<g mask="url(#mfid118)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<mask id="mfid120">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid121">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid122" fill="white" stroke="none">
+							<g mask="url(#mfid120)">
+								<g mask="url(#mfid121)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<!-- GetDC -->
+						<g mask="url(#mfid104)">
+							<g transform="matrix(1, 0, 0, 1, 145.25, 339.59)">
+								<g stroke="#000000" stroke-miterlimit="10" fill="none">
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="400"
+											font-size="75">
+										<text stroke="none" fill="#000000" x="0,38,75" y="0" transform="translate(0,0)"
+												xml:space="preserve">50</text>
+									</g>
+								</g>
+							</g>
+						</g>
+						<!-- Released DC -->
+						<mask id="mfid123">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid124">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid125" fill="white" stroke="none">
+							<g mask="url(#mfid123)">
+								<g mask="url(#mfid124)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<mask id="mfid126">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid127">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid128" fill="white" stroke="none">
+							<g mask="url(#mfid126)">
+								<g mask="url(#mfid127)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<!-- GetDC -->
+						<g mask="url(#mfid104)">
+							<g transform="matrix(1, 0, 0, 1, 265.3, 1373.4)">
+								<g stroke="#000000" stroke-miterlimit="10" fill="none">
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="400"
+											font-size="75">
+										<text stroke="none" fill="#000000" x="0,38" y="0" transform="translate(0,0)"
+												xml:space="preserve">0</text>
+									</g>
+								</g>
+							</g>
+						</g>
+						<!-- Released DC -->
+						<mask id="mfid129">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid130">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid131" fill="white" stroke="none">
+							<g mask="url(#mfid129)">
+								<g mask="url(#mfid130)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<mask id="mfid132">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid133">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid134" fill="white" stroke="none">
+							<g mask="url(#mfid132)">
+								<g mask="url(#mfid133)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<!-- GetDC -->
+						<g mask="url(#mfid104)">
+							<g transform="matrix(1, 0, 0, 1, 537.35, 1373.4)">
+								<g stroke="#000000" stroke-miterlimit="10" fill="none">
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="400"
+											font-size="75">
+										<text stroke="none" fill="#000000" x="0,38,75,113" y="0" transform="translate(0,0)"
+												xml:space="preserve">150</text>
+									</g>
+								</g>
+							</g>
+						</g>
+						<!-- Released DC -->
+						<mask id="mfid135">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid136">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid137" fill="white" stroke="none">
+							<g mask="url(#mfid135)">
+								<g mask="url(#mfid136)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<mask id="mfid138">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid139">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid140" fill="white" stroke="none">
+							<g mask="url(#mfid138)">
+								<g mask="url(#mfid139)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<!-- GetDC -->
+						<g mask="url(#mfid104)">
+							<g transform="matrix(1, 0, 0, 1, 846.9, 1373.4)">
+								<g stroke="#000000" stroke-miterlimit="10" fill="none">
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="400"
+											font-size="75">
+										<text stroke="none" fill="#000000" x="0,38,75,113" y="0" transform="translate(0,0)"
+												xml:space="preserve">300</text>
+									</g>
+								</g>
+							</g>
+						</g>
+						<!-- Released DC -->
+						<mask id="mfid141">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid142">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid143" fill="white" stroke="none">
+							<g mask="url(#mfid141)">
+								<g mask="url(#mfid142)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<mask id="mfid144">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid145">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid146" fill="white" stroke="none">
+							<g mask="url(#mfid144)">
+								<g mask="url(#mfid145)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<!-- GetDC -->
+						<g mask="url(#mfid104)">
+							<g transform="matrix(1, 0, 0, 1, 1156.5, 1373.4)">
+								<g stroke="#000000" stroke-miterlimit="10" fill="none">
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="400"
+											font-size="75">
+										<text stroke="none" fill="#000000" x="0,38,75,113" y="0" transform="translate(0,0)"
+												xml:space="preserve">450</text>
+									</g>
+								</g>
+							</g>
+						</g>
+						<!-- Released DC -->
+						<mask id="mfid147">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid148">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid149" fill="white" stroke="none">
+							<g mask="url(#mfid147)">
+								<g mask="url(#mfid148)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<mask id="mfid150">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid151">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid152" fill="white" stroke="none">
+							<g mask="url(#mfid150)">
+								<g mask="url(#mfid151)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<!-- GetDC -->
+						<g mask="url(#mfid104)">
+							<g transform="matrix(1, 0, 0, 1, 1466, 1373.4)">
+								<g stroke="#000000" stroke-miterlimit="10" fill="none">
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="400"
+											font-size="75">
+										<text stroke="none" fill="#000000" x="0,38,75,113" y="0" transform="translate(0,0)"
+												xml:space="preserve">600</text>
+									</g>
+								</g>
+							</g>
+						</g>
+						<!-- Released DC -->
+						<mask id="mfid153">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid154">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid155" fill="white" stroke="none">
+							<g mask="url(#mfid153)">
+								<g mask="url(#mfid154)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<mask id="mfid156">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid157">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid158" fill="white" stroke="none">
+							<g mask="url(#mfid156)">
+								<g mask="url(#mfid157)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<!-- GetDC -->
+						<g mask="url(#mfid104)">
+							<g transform="matrix(0.000000000000000061232, -1, 1, 0.000000000000000061232, 90.966, 1050.5)">
+								<g stroke="#000000" stroke-miterlimit="10" fill="none">
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="400"
+											font-size="83">
+										<text stroke="none" fill="#000000"
+												x="0,46,87,124,161,198,230,262,285,340,377,400,437,458,486,555,583" y="0"
+												transform="translate(0,0)" xml:space="preserve">Success Rate (%)</text>
+									</g>
+								</g>
+							</g>
+						</g>
+						<!-- Released DC -->
+						<mask id="mfid159">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid160">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid161" fill="white" stroke="none">
+							<g mask="url(#mfid159)">
+								<g mask="url(#mfid160)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<mask id="mfid162">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid163">
+							<rect x="2688" y="122" width="1853" height="1834" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid164" fill="white" stroke="none">
+							<g mask="url(#mfid162)">
+								<g mask="url(#mfid163)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<!-- GetDC -->
+						<g mask="url(#mfid104)">
+							<g transform="matrix(1, 0, 0, 1, 545.09, 1509.1)">
+								<g stroke="#000000" stroke-miterlimit="10" fill="none">
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="400"
+											font-size="83">
+										<text stroke="none" fill="#000000"
+												x="0,28,69,96,133,161,198,239,276,313,335,387,410,473,510,532,560,623,655,683,706"
+												y="0" transform="translate(0,0)" xml:space="preserve">Inference Time (ms) </text>
+									</g>
+								</g>
+							</g>
+						</g>
+						<!-- Released DC -->
+						<mask id="mfid165">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid166">
+							<rect x="2688" y="122" width="1854" height="1835" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid167" fill="white" stroke="none">
+							<g mask="url(#mfid165)">
+								<g mask="url(#mfid166)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<mask id="mfid168">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid169">
+							<rect x="2688" y="122" width="1854" height="1835" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid170" fill="white" stroke="none">
+							<g mask="url(#mfid168)">
+								<g mask="url(#mfid169)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<mask id="mfid171">
+							<rect x="-828" y="90" width="2869" height="147" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid172" fill="white" stroke="none">
+							<g mask="url(#mfid170)">
+								<g mask="url(#mfid171)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<!-- GetDC -->
+						<mask id="mfid173" fill-rule="evenodd" fill="white" stroke="none">
+							<rect x="0" y="90" width="1854" height="147"/>
+						</mask>
+						<g mask="url(#mfid173)">
+							<g transform="matrix(1, 0, 0, 1, 401.74, 206.29)">
+								<g stroke="#000000" stroke-miterlimit="10" fill="none">
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="700"
+											font-size="92">
+										<text stroke="none" fill="#000000" x="0,72,123,164,200" y="0" transform="translate(0,0)"
+												xml:space="preserve">Ours</text>
+									</g>
+								</g>
+							</g>
+						</g>
+						<!-- Released DC -->
+						<mask id="mfid174">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid175">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid176" fill="white" stroke="none">
+							<g mask="url(#mfid174)">
+								<g mask="url(#mfid175)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<mask id="mfid177">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid178">
+							<rect x="2688" y="122" width="1854" height="1835" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid179" fill="white" stroke="none">
+							<g mask="url(#mfid177)">
+								<g mask="url(#mfid178)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<mask id="mfid180">
+							<rect x="-828" y="90" width="2869" height="147" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid181" fill="white" stroke="none">
+							<g mask="url(#mfid179)">
+								<g mask="url(#mfid180)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<!-- GetDC -->
+						<g mask="url(#mfid173)">
+							<g transform="matrix(1, 0, 0, 1, 601.74, 206.29)">
+								<g stroke="#000000" stroke-miterlimit="10" fill="none">
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="400"
+											font-size="58">
+										<text stroke="none" fill="#000000" x="0,19,61,92,127,160,189,208" y="0"
+												transform="translate(0,0)" xml:space="preserve">(NFE=5)</text>
+									</g>
+								</g>
+							</g>
+						</g>
+						<!-- Released DC -->
+						<mask id="mfid182">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid183">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid184" fill="white" stroke="none">
+							<g mask="url(#mfid182)">
+								<g mask="url(#mfid183)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<mask id="mfid185">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid186">
+							<rect x="2688" y="122" width="1854" height="1835" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid187" fill="white" stroke="none">
+							<g mask="url(#mfid185)">
+								<g mask="url(#mfid186)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<mask id="mfid188">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid189">
+							<rect x="2688" y="122" width="1854" height="1835" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid190" fill="white" stroke="none">
+							<g mask="url(#mfid188)">
+								<g mask="url(#mfid189)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<!-- GetDC -->
+						<mask id="mfid191" fill-rule="evenodd" fill="white" stroke="none">
+							<rect x="0" y="0" width="1854" height="1835"/>
+						</mask>
+						<g mask="url(#mfid191)">
+							<g transform="matrix(1, 0, 0, 1, 343.06, 303.65)">
+								<g stroke="#000000" stroke-miterlimit="10" fill="none">
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="700"
+											font-size="92">
+										<text stroke="none" fill="#000000" x="0,72,123,164,200" y="0" transform="translate(0,0)"
+												xml:space="preserve">Ours</text>
+									</g>
+								</g>
+							</g>
+						</g>
+						<!-- Released DC -->
+						<mask id="mfid192">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid193">
+							<rect x="2688" y="122" width="1854" height="1835" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid194" fill="white" stroke="none">
+							<g mask="url(#mfid192)">
+								<g mask="url(#mfid193)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<!-- GetDC -->
+						<g mask="url(#mfid191)">
+							<g transform="matrix(1, 0, 0, 1, 543.06, 303.65)">
+								<g stroke="#000000" stroke-miterlimit="10" fill="none">
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="700"
+											font-size="58">
+										<text stroke="none" fill="#000000" x="0,19" y="0" transform="translate(0,0)"
+												xml:space="preserve">(</text>
+									</g>
+								</g>
+							</g>
+						</g>
+						<!-- Released DC -->
+						<mask id="mfid195">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid196">
+							<rect x="2688" y="122" width="1854" height="1835" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid197" fill="white" stroke="none">
+							<g mask="url(#mfid195)">
+								<g mask="url(#mfid196)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<!-- GetDC -->
+						<g mask="url(#mfid191)">
+							<g transform="matrix(1, 0, 0, 1, 562.06, 303.65)">
+								<g stroke="#000000" stroke-miterlimit="10" fill="none">
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="400"
+											font-size="58">
+										<text stroke="none" fill="#000000" x="0,42,73,108,141,170,189" y="0"
+												transform="translate(0,0)" xml:space="preserve">NFE=1)</text>
+									</g>
+								</g>
+							</g>
+						</g>
+						<!-- Released DC -->
+						<mask id="mfid198">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid199">
+							<rect x="2688" y="122" width="1854" height="1835" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid200" fill="white" stroke="none">
+							<g mask="url(#mfid198)">
+								<g mask="url(#mfid199)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<mask id="mfid201">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid202">
+							<rect x="2688" y="122" width="1854" height="1835" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid203" fill="white" stroke="none">
+							<g mask="url(#mfid201)">
+								<g mask="url(#mfid202)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<!-- GetDC -->
+						<g mask="url(#mfid191)">
+							<g transform="matrix(1, 0, 0, 1, 1322.8, 228.71)">
+								<g stroke="#000000" stroke-miterlimit="10" fill="none">
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="400"
+											font-size="92">
+										<text stroke="none" fill="#000000" x="0,56,102,148,174,240,266,297,328" y="0"
+												transform="translate(0,0)" xml:space="preserve">EquiDiff</text>
+									</g>
+								</g>
+							</g>
+						</g>
+						<!-- Released DC -->
+						<mask id="mfid204">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid205">
+							<rect x="2688" y="122" width="1854" height="1835" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid206" fill="white" stroke="none">
+							<g mask="url(#mfid204)">
+								<g mask="url(#mfid205)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<mask id="mfid207">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid208">
+							<rect x="2688" y="122" width="1854" height="1835" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid209" fill="white" stroke="none">
+							<g mask="url(#mfid207)">
+								<g mask="url(#mfid208)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<!-- GetDC -->
+						<g mask="url(#mfid191)">
+							<g transform="matrix(1, 0, 0, 1, 1154.2, 596.47)">
+								<g stroke="#000000" stroke-miterlimit="10" fill="none">
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="400"
+											font-size="92">
+										<text stroke="none" fill="#000000" x="0,66,117" y="0" transform="translate(0,0)"
+												xml:space="preserve">DP</text>
+									</g>
+								</g>
+							</g>
+						</g>
+						<!-- Released DC -->
+						<mask id="mfid210">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid211">
+							<rect x="2688" y="122" width="1854" height="1835" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid212" fill="white" stroke="none">
+							<g mask="url(#mfid210)">
+								<g mask="url(#mfid211)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<!-- GetDC -->
+						<g mask="url(#mfid191)">
+							<g transform="matrix(1, 0, 0, 1, 1271.2, 596.47)">
+								<g stroke="#000000" stroke-miterlimit="10" fill="none">
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="400"
+											font-size="92">
+										<text stroke="none" fill="#000000" x="0,29" y="0" transform="translate(0,0)"
+												xml:space="preserve">-</text>
+									</g>
+								</g>
+							</g>
+						</g>
+						<!-- Released DC -->
+						<mask id="mfid213">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid214">
+							<rect x="2688" y="122" width="1854" height="1835" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid215" fill="white" stroke="none">
+							<g mask="url(#mfid213)">
+								<g mask="url(#mfid214)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<!-- GetDC -->
+						<g mask="url(#mfid191)">
+							<g transform="matrix(1, 0, 0, 1, 1300.2, 596.47)">
+								<g stroke="#000000" stroke-miterlimit="10" fill="none">
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="400"
+											font-size="92">
+										<text stroke="none" fill="#000000" x="0,61" y="0" transform="translate(0,0)"
+												xml:space="preserve">C</text>
+									</g>
+								</g>
+							</g>
+						</g>
+						<!-- Released DC -->
+						<mask id="mfid216">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid217">
+							<rect x="2688" y="122" width="1854" height="1835" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid218" fill="white" stroke="none">
+							<g mask="url(#mfid216)">
+								<g mask="url(#mfid217)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<mask id="mfid219">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid220">
+							<rect x="2688" y="122" width="1854" height="1835" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid221" fill="white" stroke="none">
+							<g mask="url(#mfid219)">
+								<g mask="url(#mfid220)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<!-- GetDC -->
+						<g mask="url(#mfid191)">
+							<g transform="matrix(1, 0, 0, 1, 364.61, 1245.8)">
+								<g stroke="#000000" stroke-miterlimit="10" fill="none">
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="400"
+											font-size="92">
+										<text stroke="none" fill="#000000" x="0,66,127,184" y="0" transform="translate(0,0)"
+												xml:space="preserve">ACT</text>
+									</g>
+								</g>
+							</g>
+						</g>
+						<!-- Released DC -->
+						<mask id="mfid222">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid223">
+							<rect x="2688" y="122" width="1854" height="1835" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid224" fill="white" stroke="none">
+							<g mask="url(#mfid222)">
+								<g mask="url(#mfid223)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<mask id="mfid225">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid226">
+							<rect x="2688" y="122" width="1854" height="1835" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid227" fill="white" stroke="none">
+							<g mask="url(#mfid225)">
+								<g mask="url(#mfid226)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<!-- GetDC -->
+						<g mask="url(#mfid191)">
+							<g transform="matrix(1, 0, 0, 1, 444.96, 1155.2)">
+								<g stroke="#000000" stroke-miterlimit="10" fill="none">
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="400"
+											font-size="92">
+										<text stroke="none" fill="#000000" x="0,66,117,163" y="0" transform="translate(0,0)"
+												xml:space="preserve">DP3</text>
+									</g>
+								</g>
+							</g>
+						</g>
+						<!-- Released DC -->
+						<mask id="mfid228">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid229">
+							<rect x="2688" y="122" width="1854" height="1835" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid230" fill="white" stroke="none">
+							<g mask="url(#mfid228)">
+								<g mask="url(#mfid229)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<mask id="mfid231">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid232">
+							<rect x="2688" y="122" width="1854" height="1835" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid233" fill="white" stroke="none">
+							<g mask="url(#mfid231)">
+								<g mask="url(#mfid232)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<!-- GetDC -->
+						<g mask="url(#mfid191)">
+							<g transform="matrix(1, 0, 0, 1, 1064.1, 1002.7)">
+								<g stroke="#000000" stroke-miterlimit="10" fill="none">
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="400"
+											font-size="92">
+										<text stroke="none" fill="#000000" x="0,66,117" y="0" transform="translate(0,0)"
+												xml:space="preserve">DP</text>
+									</g>
+								</g>
+							</g>
+						</g>
+						<!-- Released DC -->
+						<mask id="mfid234">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid235">
+							<rect x="2688" y="122" width="1854" height="1835" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid236" fill="white" stroke="none">
+							<g mask="url(#mfid234)">
+								<g mask="url(#mfid235)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<!-- GetDC -->
+						<g mask="url(#mfid191)">
+							<g transform="matrix(1, 0, 0, 1, 1181.1, 1002.7)">
+								<g stroke="#000000" stroke-miterlimit="10" fill="none">
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="400"
+											font-size="92">
+										<text stroke="none" fill="#000000" x="0,29" y="0" transform="translate(0,0)"
+												xml:space="preserve">-</text>
+									</g>
+								</g>
+							</g>
+						</g>
+						<!-- Released DC -->
+						<mask id="mfid237">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid238">
+							<rect x="2688" y="122" width="1854" height="1835" fill="white" stroke="none"
+									transform="matrix(1, 0, 0, 1, -2688, -122)"/>
+						</mask>
+						<mask id="mfid239" fill="white" stroke="none">
+							<g mask="url(#mfid237)">
+								<g mask="url(#mfid238)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<!-- GetDC -->
+						<g mask="url(#mfid191)">
+							<g transform="matrix(1, 0, 0, 1, 1210.1, 1002.7)">
+								<g stroke="#000000" stroke-miterlimit="10" fill="none">
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="400"
+											font-size="92">
+										<text stroke="none" fill="#000000" x="0,57" y="0" transform="translate(0,0)"
+												xml:space="preserve">T</text>
+									</g>
+								</g>
+							</g>
+						</g>
+						<!-- Released DC -->
+						<mask id="mfid240">
+							<rect width="1854" height="1835" fill="white" stroke="none"/>
+						</mask>
+					</g>
+				</svg>
+			</switch>
+			<rect v:rectContext="foreign" x="0" y="0.750008" width="291.997" height="288.992" class="st1"/>
+		</g>
+	</g>
+</svg>
