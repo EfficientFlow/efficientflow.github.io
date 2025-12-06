@@ -114,6 +114,88 @@
         font-weight: 700;
         color: #000;
     }
+  .teaser-layout {
+    display: flex;
+    flex-wrap: wrap;      /* 允许换行，适配手机 */
+    gap: 1.5rem;          /* 间距 */
+    align-items: center;  /* 🌟关键：垂直居中对齐 */
+    justify-content: center;
+    margin-bottom: 1.5rem;
+  }
+
+  /* 通用容器样式 */
+  .teaser-item {
+    /* 默认样式 */
+    min-width: 280px; /* 防止过小 */
+  }
+
+  /* 🟢 左侧图表：设置为较小的比例 (约 35%) */
+  .teaser-item.is-chart {
+    flex: 3.5;       /* 权重 3.5 */
+    max-width: 42%;  /* 限制最大宽度 */
+  }
+
+  /* 🔵 右侧视频：设置为较大的比例 (约 65%) */
+  .teaser-item.is-video {
+    flex: 6.5;       /* 权重 6.5 */
+    max-width: 58%;  /* 限制最大宽度 */
+  }
+
+  /* 媒体样式（圆角、阴影） */
+  .teaser-media {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08); /* 极简阴影 */
+    border: 1px solid rgba(0, 0, 0, 0.05);
+  }
+
+  /* 📱 移动端适配：屏幕小于 768px 时强制变为上下堆叠 */
+  @media (max-width: 768px) {
+    .teaser-item.is-chart,
+    .teaser-item.is-video {
+      flex: 100%;
+      max-width: 100%;
+    }
+  }
+
+  /* 文字说明优化 */
+  .teaser-caption {
+    margin-top: 10px;
+    color: #4a4a4a;
+    font-size: 1.1rem;
+    line-height: 1.6;
+  }
+     /* 视频容器：居中 + 限制宽度 */
+  .video-wrapper {
+    width: 90%;            /* 视频宽度 */
+    max-width: 960px;      /* 最大限制 */
+    margin: 0 auto 2rem;   /* 居中，底部留白 */
+    display: block;
+  }
+
+  /* 视频样式：圆角 + 阴影 */
+  .media-style {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    border: 1px solid rgba(0, 0, 0, 0.05);
+  }
+
+  /* 链接悬停效果优化 */
+  .mimicgen-link {
+    color: #209CEE;
+    font-weight: bold;
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+  .mimicgen-link:hover {
+    color: #1476b8; /* 鼠标放上去变深一点 */
+    text-decoration: underline;
+  }
+  }
   </style>
 </head>
 <body>
@@ -216,25 +298,44 @@
     </div>
 
 
-  <div class="container is-max-desktop">
-    <div class="hero-body">
+<div class="container is-max-desktop">
+  <div class="hero-body">
+    
+    <!-- 1. 媒体展示区 -->
+    <div class="teaser-layout">
       
-      <img id="teaser" 
-          src="./static/images/Figure1b.png" 
-          alt="EfficientFlow Performance Comparison"
-          style="width: 70%; height: auto;display: block; margin-left: auto; margin-right: auto;">
+      <!-- 左侧：图表 (添加了 is-chart 类) -->
+      <div class="teaser-item is-chart">
+        <img src="./static/images/Figure1b.png" 
+             alt="EfficientFlow Performance Chart"
+             class="teaser-media">
+      </div>
 
-      <div class="content has-text-justified is-size-6" style="margin-top: -80px;">
-          <p>
-          <b>Efficiency vs. Performance.</b> 
-          EfficientFlow occupies the top-left "sweet spot", 
-          achieving <span style="color: #209cee; font-weight: bold;">millisecond-level inference</span> 
-          while maintaining <span style="color: #209cee; font-weight: bold;">SOTA</span>  success rates. 
-          </p>
-        </div>
-
+      <!-- 右侧：视频 (添加了 is-video 类) -->
+      <div class="teaser-item is-video">
+        <video src="./static/videos/infertime.mp4" 
+               alt="EfficientFlow Inference Demo"
+               class="teaser-media"
+               autoplay muted loop playsinline controls>
+        </video>
+      </div>
+      
     </div>
+
+    <!-- 2. 文字说明区 -->
+    <div class="content has-text-centered teaser-caption">
+      <p>
+        <span style="font-size: 1.2rem;">🚀</span> 
+        <b>Efficiency vs. Performance.</b> 
+        EfficientFlow occupies the top-left "sweet spot", 
+        achieving <span style="color: #209cee; font-weight: bold;">millisecond-level inference</span> 
+        while maintaining <span style="color: #209cee; font-weight: bold;">SOTA</span> success rates.
+      </p>
+    </div>
+
   </div>
+</div>
+
 
     <!-- Abstract. -->
     <div class="columns is-centered has-text-centered">
@@ -321,20 +422,18 @@
   </div>
 </section>
 <h2 class="title is-3" style="width: 100%; text-align: center;">Experiment</h2>
+
+<!-- 
 <section class="hero is-light is-small">
-  <div class="hero-body">
-    <!-- 修改点1：加上 is-max-desktop，让宽度与正文文本对齐 -->
-    <div class="container is-max-desktop">
+  <div class="hero-body">    <div class="container is-max-desktop">
       
-      <!-- 布局设置：is-variable is-1 (紧凑间距) -->
+
       <div class="columns is-multiline is-centered is-variable is-1 is-mobile">
         <div class="column is-full has-text-centered" style="margin-bottom: 1rem;">
           EfficientFlow generalizes across 12 challenging tasks in <a href="https://mimicgen.github.io/" target="_blank"  style="color: #209CEE;">MimicGen</a> tasks.
         </div>
-        <!-- Item 1: Stack -->
-        <!-- 修改点2：改为 is-3-desktop (一行4个)，否则在正文宽度下一行6个太小了 -->
         <div class="column is-3-desktop is-6-tablet is-12-mobile has-text-centered" style="padding: 5px;">
-          <!-- 修改点3：去掉 max-width 限制，让视频填满格子 -->
+        
           <div class="content" style="width: 100%; margin: 0 auto;">
             <video poster="" id="stack" autoplay controls muted loop playsinline width="100%">
               <source src="./static/videos/stack.mp4" type="video/mp4">
@@ -343,7 +442,6 @@
           </div>
         </div>
 
-        <!-- Item 2: Square -->
         <div class="column is-3-desktop is-6-tablet is-12-mobile has-text-centered" style="padding: 5px;">
           <div class="content" style="width: 100%; margin: 0 auto;">
             <video poster="" id="square" autoplay controls muted loop playsinline width="100%">
@@ -353,7 +451,7 @@
           </div>
         </div>
 
-        <!-- Item 3: Threading -->
+
         <div class="column is-3-desktop is-6-tablet is-12-mobile has-text-centered" style="padding: 5px;">
           <div class="content" style="width: 100%; margin: 0 auto;">
             <video poster="" id="threading" autoplay controls muted loop playsinline width="100%">
@@ -363,7 +461,6 @@
           </div>
         </div>
 
-        <!-- Item 4: Stack Three -->
         <div class="column is-3-desktop is-6-tablet is-12-mobile has-text-centered" style="padding: 5px;">
           <div class="content" style="width: 100%; margin: 0 auto;">
             <video poster="" id="stack_three" autoplay controls muted loop playsinline width="100%">
@@ -373,7 +470,7 @@
           </div>
         </div>
 
-        <!-- Item 5: Coffee -->
+  
         <div class="column is-3-desktop is-6-tablet is-12-mobile has-text-centered" style="padding: 5px;">
           <div class="content" style="width: 100%; margin: 0 auto;">
             <video poster="" id="coffee" autoplay controls muted loop playsinline width="100%">
@@ -383,7 +480,7 @@
           </div>
         </div>
 
-        <!-- Item 6: Three Piece Assembly -->
+
         <div class="column is-3-desktop is-6-tablet is-12-mobile has-text-centered" style="padding: 5px;">
           <div class="content" style="width: 100%; margin: 0 auto;">
             <video poster="" id="three_piece_assembly" autoplay controls muted loop playsinline width="100%">
@@ -393,7 +490,7 @@
           </div>
         </div>
 
-        <!-- Item 7: Hammer Cleanup -->
+
         <div class="column is-3-desktop is-6-tablet is-12-mobile has-text-centered" style="padding: 5px;">
           <div class="content" style="width: 100%; margin: 0 auto;">
             <video poster="" id="hammer_cleanup" autoplay controls muted loop playsinline width="100%">
@@ -403,7 +500,6 @@
           </div>
         </div>
 
-        <!-- Item 8: Mug Cleanup -->
         <div class="column is-3-desktop is-6-tablet is-12-mobile has-text-centered" style="padding: 5px;">
           <div class="content" style="width: 100%; margin: 0 auto;">
             <video poster="" id="mug_cleanup" autoplay controls muted loop playsinline width="100%">
@@ -413,7 +509,6 @@
           </div>
         </div>
 
-        <!-- Item 9: Kitchen -->
         <div class="column is-3-desktop is-6-tablet is-12-mobile has-text-centered" style="padding: 5px;">
           <div class="content" style="width: 100%; margin: 0 auto;">
             <video poster="" id="kitchen" autoplay controls muted loop playsinline width="100%">
@@ -423,7 +518,6 @@
           </div>
         </div>
 
-        <!-- Item 10: Pick Place -->
         <div class="column is-3-desktop is-6-tablet is-12-mobile has-text-centered" style="padding: 5px;">
           <div class="content" style="width: 100%; margin: 0 auto;">
             <video poster="" id="pick_place" autoplay controls muted loop playsinline width="100%">
@@ -433,7 +527,6 @@
           </div>
         </div>
 
-        <!-- Item 11: Nut Assembly -->
         <div class="column is-3-desktop is-6-tablet is-12-mobile has-text-centered" style="padding: 5px;">
           <div class="content" style="width: 100%; margin: 0 auto;">
             <video poster="" id="nut_assembly" autoplay controls muted loop playsinline width="100%">
@@ -443,7 +536,6 @@
           </div>
         </div>
 
-        <!-- Item 12: Coffee Preparation -->
         <div class="column is-3-desktop is-6-tablet is-12-mobile has-text-centered" style="padding: 5px;">
           <div class="content" style="width: 100%; margin: 0 auto;">
             <video poster="" id="coffee_preparation" autoplay controls muted loop playsinline width="100%">
@@ -456,8 +548,27 @@
       </div>
     </div>
   </div>
-</section>
 
+<div class="container is-max-desktop">
+  
+  <!-- 1. 文字描述 (放在视频上方) -->
+  <div class="has-text-centered" style="margin-bottom: 1.5rem; font-size: 1.2rem; line-height: 1.5;">
+    <p>
+      EfficientFlow generalizes across <b>12 challenging tasks</b> in 
+      <a href="https://mimicgen.github.io/" target="_blank" class="mimicgen-link">MimicGen</a>.
+    </p>
+  </div>
+
+  <!-- 2. 视频容器 (居中) -->
+  <div class="video-wrapper">
+    <video src="./static/videos/alltasts.mp4" 
+           alt="MimicGen Tasks Demo"
+           class="media-style"
+           autoplay muted loop playsinline controls>
+    </video>
+  </div>
+
+</div>
 <section class="section">
   <div class="container is-max-desktop">
     <h2 class="title is-3 has-text-centered">Quantitative Results</h2>
